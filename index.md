@@ -4,15 +4,15 @@ You can use the [editor on GitHub](https://github.com/kristenvaccaro/human-ai/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Schedule
+# Schedule
 
-# Week 1
+## Week 1
 
-## Readings
-Monday
-Wednesday
+### Readings
+Monday: None
+[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf)
 
-## Assignments
+### Assignments
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
