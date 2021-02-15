@@ -1,33 +1,40 @@
 ## Human-AI Interaction: Spring 2021
 
-You can use the [editor on GitHub](https://github.com/kristenvaccaro/human-ai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please complete all readings before class for the day they are assigned. All assignment deadlines in PT. 
 
 # Schedule
 
-## Week 1
+## Week 1: Introduction
 
 ### Readings
 Monday: None
-[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf)
+
+[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf) Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
 
 ### Assignments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Quiz](url) due Friday 5pm
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
+
+
+
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
+
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
