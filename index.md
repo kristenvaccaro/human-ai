@@ -39,27 +39,27 @@ Monday: None
 [Wednesday](http://www.mjskay.com/papers/chi2018-uncertain-bus-decisions.pdf): Fernandes, Walls, Munson, Hullman & Kay "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making" CHI 2018
 
 ### Assignments
-[Quiz](url) due Friday 5pm
+[Quiz](url) due Friday 5pm  
 [Homework #2](url) due Friday 5pm
 
 ## Week 5: Privacy
 
 ### Readings
 [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
-[Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019
+[Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019  
 
 ### Assignments
 [Quiz](url) due Friday 5pm
 
 
-## Week 6: Ethics and Trust
+## Week 6: Ethics and Social Justice
 
 ### Readings
-[Monday]():
-[Wednesday]():
+[Monday](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai): Matthew Hutson "Who Should Stop Unethical A.I.?" The New Yorker 2021  
+[Wednesday](https://arxiv.org/pdf/1912.04883.pdf): Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson "Roles for Computing in Social Change" FAccT 2020  
 
 ### Assignments
-[Quiz](url) due Friday 5pm
+[Quiz](url) due Friday 5pm  
 [Homework #3](url) due Friday 5pm
 
 ## Week 7: Recommendation Systems
