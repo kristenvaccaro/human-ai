@@ -17,11 +17,15 @@ Please complete all readings before class for the day they are assigned. All ass
 
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>Readings</td>
+    <td> Other Assignments </td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td colspan="2">1: Introduction</td>
+  </tr>
+  <tr>
+    <td>Monday: None</td>
+    <td>[Quiz](url) due Friday 5pm</td>
   </tr>
 </table>
 
