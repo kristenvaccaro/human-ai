@@ -45,7 +45,7 @@ Monday: None
 ## Week 5: Privacy
 
 ### Readings
-[Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731
+[Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
 [Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019
 
 ### Assignments
