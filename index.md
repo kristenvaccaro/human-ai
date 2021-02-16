@@ -22,15 +22,14 @@ Monday: None
 
 ### Assignments
 
-[Quiz](url) due Friday 5pm
+[Quiz](url) due Friday 5pm  
 [Homework #1](url) due Friday 5pm
 
 ## Week 3: Transparency and Explainability
 
 ### Readings
-[Monday]():  
-[Wednesday](): Mitigating Bias in Algorithmic Hiring: Evaluating Claims and
-Practices
+[Monday](https://explainablesystems.comp.nus.edu.sg/2019/wp-content/uploads/2019/02/IUI19WS-ExSS2019-20.pdf): Lim, Yang, Abdul & Wang "Why these Explanations? Selecting Intelligibility Types for Explanation Goals" IUI Workshops 2019
+[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020
 
 ## Week 4: Designing for Failure: Confidence and Errors
 
