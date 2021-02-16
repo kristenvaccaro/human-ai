@@ -62,7 +62,12 @@ Monday: None
 [Quiz](url) due Friday 5pm  
 [Homework #3](url) due Friday 5pm
 
-## Week 7: Recommendation Systems
+## Week 7: Recommendations
+
+### Readings
+
+[Monday]():  Amershi et al "Guidelines for Human-AI Interaction"
+[Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
 
 ### Assignments
 [Quiz](url) due Friday 5pm 
