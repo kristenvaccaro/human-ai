@@ -6,51 +6,6 @@ Please complete all readings before class for the day they are assigned. All ass
 
 ## Week 1: Introduction
 
-| Week | Readings | Other Assignments |
-| :--- | :--- | :--- |
-| 1: Introduction | Monday: None  | [Quiz](url) due Friday 5pm |
-| | [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997 | |
-| 2: Fairness and Bias | [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  | [Quiz](url) due Friday 5pm  |
-| | [Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019 | [Homework #1](url) due Friday 5pm |
-3: Transparency and Explainability | 
-
-
-<table>
-  <tr>
-    <td>Readings</td>
-    <td> Other Assignments </td>
-  </tr>
-  
-  
-  <tr>
-    <td colspan="2">1: Introduction</td>
-  </tr>
-  <tr>
-    <td>Monday: None</td>
-    <td>[Quiz](url) due Friday 5pm</td>
-  </tr>
-  <tr>
-    <td>[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997</td>
-    <td></td>
-  </tr>
-  
-   <tr>
-    <td colspan="2">2: Fairness and Bias</td>
-  </tr>
-  <tr>
-    <td>[Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693</td>
-    <td>[Quiz](url) due Friday 5pm</td>
-  </tr>
-    <tr>
-    <td>[Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019</td>
-  <td>[Homework #1](url) due Friday 5pm</td>
-  </tr>
-  
-</table>
-
-
-
-
 ### Readings
 Monday: None  
 [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
@@ -136,4 +91,14 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+| Week | Readings | Other Assignments |
+| :--- | :--- | :--- |
+| 1: Introduction | Monday: None  | [Quiz](url) due Friday 5pm |
+| | [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997 | |
+| 2: Fairness and Bias | [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  | [Quiz](url) due Friday 5pm  |
+| | [Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019 | [Homework #1](url) due Friday 5pm |
+3: Transparency and Explainability | 
 
