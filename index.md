@@ -34,8 +34,8 @@ Monday: None
 ## Week 4: Designing for Failure: Confidence and Errors
 
 ### Readings
-[Monday]():
-[Wednesday]():
+[Monday](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf): Kocielnik, Amershi & Bennett "Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems" CHI 2019  
+[Wednesday](http://www.mjskay.com/papers/chi2018-uncertain-bus-decisions.pdf): Fernandes, Walls, Munson, Hullman & Kay "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making" CHI 2018
 
 ### Assignments
 
