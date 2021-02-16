@@ -8,12 +8,62 @@ Please complete all readings before class for the day they are assigned. All ass
 
 ### Readings
 Monday: None
-
-[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf) Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
+[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
 
 ### Assignments
 
 [Quiz](url) due Friday 5pm
+
+## Week 2: Fairness and Bias
+
+### Readings
+[Monday]():  
+[Wednesday](): Mitigating Bias in Algorithmic Hiring: Evaluating Claims and
+Practices
+
+pro publica + math on impossibility
+https://scholar.harvard.edu/files/19-fat.pdf
+
+### Assignments
+
+[Quiz](url) due Friday 5pm
+[Homework #1](url) due Friday 5pm
+
+## Week 3: Transparency and Explainability
+
+### Readings
+[Monday]():  
+[Wednesday](): Mitigating Bias in Algorithmic Hiring: Evaluating Claims and
+Practices
+
+## Week 4: Designing for Failure: Confidence and Errors
+
+### Assignments
+
+[Quiz](url) due Friday 5pm
+[Homework #2](url) due Friday 5pm
+
+## Week 5: Privacy
+
+## Week 6: Ethics and Trust
+
+### Assignments
+
+[Quiz](url) due Friday 5pm
+[Homework #3](url) due Friday 5pm
+
+## Week 7: Recommendation Systems
+
+## Week 8: Deepfakes and AI Generated Content
+
+### Assignments
+
+[Quiz](url) due Friday 5pm
+[Homework #4](url) due Friday 5pm
+
+## Week 9: Application: Student Choice
+
+## Week 10: Project Presentations
 
 
 # Header 1
@@ -43,10 +93,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kristenvaccaro/human-ai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
