@@ -7,7 +7,7 @@ Please complete all readings before class for the day they are assigned. All ass
 ## Week 1: Introduction
 
 ### Readings
-Monday: None
+Monday: None  
 [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
 
 ### Assignments
