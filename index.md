@@ -29,11 +29,12 @@ Please complete all readings before class for the day they are assigned. All ass
     <td>Monday: None</td>
     <td>[Quiz](url) due Friday 5pm</td>
   </tr>
-    <tr>
+  <tr>
     <td>[Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997</td>
+    <td></td>
   </tr>
   
-    <tr>
+   <tr>
     <td colspan="2">2: Fairness and Bias</td>
   </tr>
   <tr>
