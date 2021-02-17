@@ -1,8 +1,9 @@
 ---
 title: Schedule
-layout: template
-filename: schedule.md
---- 
+---
+
+Human AI Interaction 
+=====
 
 
 ## Human-AI Interaction: Spring 2021
