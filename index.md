@@ -66,7 +66,7 @@ Monday: None
 
 ### Readings
 
-[Monday]():  Amershi et al "Guidelines for Human-AI Interaction"
+[Monday](http://files.grouplens.org/papers/algorithmstouserexperience.pdf): Konstan & Riedl "Recommender systems: from algorithms to user experience" User Modeling and User-Adapted Interaction 2012  
 [Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
 
 ### Assignments
@@ -74,49 +74,22 @@ Monday: None
 
 ## Week 8: Deepfakes and AI Generated Content
 
+### Readings
+[Monday](https://regmedia.co.uk/2019/10/08/deepfake_report.pdf): Ajder, Patrini, Cavalli & Cullen "The State of Deepfakes: Landscapes, Threats, and Impact" Deeptrace White Paper 2019  
+[Wednesday](https://youralien.github.io/files/cococo_chi2020_copy.pdf): Louie, Coenen, Huang, Terry & Cai "Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models" CHI 2020
+
 ### Assignments
 [Quiz](url) due Friday 5pm
 [Homework #4](url) due Friday 5pm
 
-## Week 9: Application: Student Choice
+
+## Week 9: Conclusions
+
+[Monday](): Student Choice  
+[Wednesday](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf): Amershi et al "Guidelines for Human-AI Interaction" CHI 2019
 
 ## Week 10: Project Presentations
 
-
-# Header 1
-## Header 2
-### Header 3
-
-
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-| Week | Readings | Other Assignments |
-| :--- | :--- | :--- |
-| 1: Introduction | Monday: None  | [Quiz](url) due Friday 5pm |
-| | [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997 | |
-| 2: Fairness and Bias | [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  | [Quiz](url) due Friday 5pm  |
-| | [Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019 | [Homework #1](url) due Friday 5pm |
-3: Transparency and Explainability | 
+### Assignments
+[Project presentations](url) due Friday 5pm
 
