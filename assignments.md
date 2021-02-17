@@ -20,8 +20,11 @@ Programming assignments will be due at 5PM Friday, every other week: Weeks 2, 4,
 
 #### Homework #1
 
-## Group Project
+## Final Project
 
+The default option for the final project is a group project where you will create something cool! Friday class sessions will be design studios where you work with your group on this project and get feedback from your peers. 
+
+If for logisitical or other reasons you don't wish to participate in a group, you may write an artile aimed at online readers. Details are provided [here.]()
 
 
 ## Final Exam
