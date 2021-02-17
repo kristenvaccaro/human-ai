@@ -1,6 +1,6 @@
 # Assignments
 
-There will be four forms of assessment over the quarter. All deadlines are given in PT.
+There will be four forms of assessment over the quarter: quizzes, programming assignments, a group project, and a final exam. All deadlines are given in PT.
 
 ## Quizzes
 
@@ -8,6 +8,7 @@ You will complete quizzes before each Monday and Wednesday class. These quizzes 
 
 Quizzes will be due at 2PM, before the start of class.  
 Quizzes will be assigned on Canvas.
+Your lowest quiz score will be dropped automatically. 
 
 ## Programming Assignments
 
@@ -21,4 +22,8 @@ Programming assignments will be due at 5PM Friday, every other week: Weeks 2, 4,
 
 ## Group Project
 
+
+
 ## Final Exam
+
+A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions -- similar to the quiz questions -- and open-ended responses. 
