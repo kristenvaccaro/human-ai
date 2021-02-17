@@ -1,3 +1,10 @@
+---
+title: Schedule
+layout: template
+filename: schedule.md
+--- 
+
+
 ## Human-AI Interaction: Spring 2021
 
 All readings are due before class for the day they are assigned. All assignment deadlines in PT. 
