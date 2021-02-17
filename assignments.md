@@ -26,4 +26,4 @@ Programming assignments will be due at 5PM Friday, every other week: Weeks 2, 4,
 
 ## Final Exam
 
-A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions -- similar to the quiz questions -- and open-ended responses. 
+A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions -- similar to the quiz questions -- and open-ended responses. The final exam time is assigned by the university; if you need a conflict exam, please contact myself and the TA.
