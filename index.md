@@ -10,9 +10,6 @@ Please complete all readings before class for the day they are assigned. All ass
 Monday: None  
 [Wednesday](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/ShneidermanMaes-Interactions97.pdf): Shneiderman & Maes "Direct Manipulation vs Interface Agents" Interactions 1997
 
-### Assignments
-[Quiz](url) due Friday 5pm
-
 ## Week 2: Fairness and Bias
 
 ### Readings
@@ -20,7 +17,6 @@ Monday: None
 [Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019
 
 ### Assignments
-[Quiz](url) due Friday 5pm  
 [Homework #1](url) due Friday 5pm
 
 ## Week 3: Transparency and Explainability
@@ -29,8 +25,6 @@ Monday: None
 [Monday](https://explainablesystems.comp.nus.edu.sg/2019/wp-content/uploads/2019/02/IUI19WS-ExSS2019-20.pdf): Lim, Yang, Abdul & Wang "Why these Explanations? Selecting Intelligibility Types for Explanation Goals" IUI Workshops 2019  
 [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020
 
-### Assignments
-[Quiz](url) due Friday 5pm  
 
 ## Week 4: Designing for Failure: Confidence and Errors
 
@@ -39,7 +33,6 @@ Monday: None
 [Wednesday](http://www.mjskay.com/papers/chi2018-uncertain-bus-decisions.pdf): Fernandes, Walls, Munson, Hullman & Kay "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making" CHI 2018
 
 ### Assignments
-[Quiz](url) due Friday 5pm  
 [Homework #2](url) due Friday 5pm
 
 ## Week 5: Privacy
@@ -48,10 +41,6 @@ Monday: None
 [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
 [Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019  
 
-### Assignments
-[Quiz](url) due Friday 5pm
-
-
 ## Week 6: Ethics and Social Justice
 
 ### Readings
@@ -59,7 +48,6 @@ Monday: None
 [Wednesday](https://arxiv.org/pdf/1912.04883.pdf): Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson "Roles for Computing in Social Change" FAccT 2020  
 
 ### Assignments
-[Quiz](url) due Friday 5pm  
 [Homework #3](url) due Friday 5pm
 
 ## Week 7: Recommendations
@@ -69,9 +57,6 @@ Monday: None
 [Monday](http://files.grouplens.org/papers/algorithmstouserexperience.pdf): Konstan & Riedl "Recommender systems: from algorithms to user experience" User Modeling and User-Adapted Interaction 2012  
 [Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
 
-### Assignments
-[Quiz](url) due Friday 5pm 
-
 ## Week 8: Deepfakes and AI Generated Content
 
 ### Readings
@@ -79,7 +64,6 @@ Monday: None
 [Wednesday](https://youralien.github.io/files/cococo_chi2020_copy.pdf): Louie, Coenen, Huang, Terry & Cai "Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models" CHI 2020
 
 ### Assignments
-[Quiz](url) due Friday 5pm
 [Homework #4](url) due Friday 5pm
 
 
