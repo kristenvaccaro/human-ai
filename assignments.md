@@ -51,7 +51,7 @@ You will get some hands-on experience with various techniques for generating ima
 
 The default option for the final project is a group project where you will create something cool! Friday class sessions will be design studios where you work with your group on this project and get feedback from your peers. 
 
-If for logisitical or other reasons you don't wish to participate in a group, you may write an artile aimed at online readers. Details are provided [here.]()
+If for logisitical or other reasons you don't wish to participate in a group, you may write an artile aimed at online readers. Details are provided [here.](https://docs.google.com/document/d/1Z_7OENTdXAKFbXCGRtpud51afzR7ye1q7WLU61AUVsY/edit?usp=sharing)
 
 
 ## Final Exam
