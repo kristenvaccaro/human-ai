@@ -19,9 +19,9 @@ Programming assignments will be due at 5PM Friday, every other week: Weeks 2, 4,
 ### Links to Programming Assignments 
 
 #### Homework #1
-Due Friday 5PM
+Due Friday 5PM  
 
-You will explore and analyze data on home loan predictions.
+You will explore and analyze data on home loan predictions.  
 
 [Assignment Description]() and [Materials]() 
 
