@@ -56,4 +56,4 @@ If for logisitical or other reasons you don't wish to participate in a group, yo
 
 ## Final Exam
 
-A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions -- similar to the quiz questions -- and open-ended responses. The final exam time is assigned by the university; if you need a conflict exam, please contact myself and the TA.
+A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions (similar to the quiz questions) and open-ended responses. The final exam time is set by the university; if you need a conflict exam, please contact myself and the TA.
