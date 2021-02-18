@@ -67,10 +67,10 @@ Monday: None
 [Homework #4](url) due Friday 5pm
 
 
-## Week 9: Conclusions
+## Week 9: Student Choice
 
 [Monday](): Student Choice  
-[Wednesday](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf): Amershi et al "Guidelines for Human-AI Interaction" CHI 2019
+[Wednesday](): Student Choice 
 
 ## Week 10: Project Presentations
 
