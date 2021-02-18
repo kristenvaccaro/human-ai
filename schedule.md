@@ -2,10 +2,6 @@
 title: Schedule
 ---
 
-## Human-AI Interaction: Spring 2021
-
-All readings are due before class for the day they are assigned. All assignment deadlines in PT. 
-
 # Schedule
 
 ## Week 1: Introduction
