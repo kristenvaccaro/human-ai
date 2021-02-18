@@ -30,7 +30,7 @@ Due Friday 5PM
 
 You will create a mockup of the front-end to your loan application from Homework #1. Homework #1 offered you a chance to see what’s happening in the technical back-end; here you will make design decisions for what users see in the front end.  
 
-[Assignment Details](https://docs.google.com/document/d/1UWjBOvPt54EPQLNlaKxuspMXrzrAL5QO2xdhqDBI1I0/edit?usp=sharing) and [Materials]() 
+[Assignment Details](https://docs.google.com/document/d/1UWjBOvPt54EPQLNlaKxuspMXrzrAL5QO2xdhqDBI1I0/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Wy3kE-5CMlDWPr_DReif-ImtrkO6lciW?usp=sharing) 
 
 #### Homework #3
 Due Friday 5PM  
