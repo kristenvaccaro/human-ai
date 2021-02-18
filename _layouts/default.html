@@ -26,7 +26,13 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
-        {% include nav.html %}
+        <div>
+          <ul>
+            <li><a href="./index.html" id="intro">Syllabus</a></li>
+            <li><a href="./schedule.html" id="abt">Schedule</a></li>
+            <li><a href="./assignments.html" id="abt">Assignments</a></li>    
+          </ul>
+        </div>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
