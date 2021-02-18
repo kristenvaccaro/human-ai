@@ -7,7 +7,9 @@ According to the department:
 
 ### If my EASy application is approved, am I guaranteed a spot in the class?
 
-No, the caps for courses are handled in the registration system (not EASy), so you will need to register as in any other course with a limited number of seats. 
+No. Again, according to the department:  
+> An EASy approval does NOT guarantee a spot in the course.  
+The caps for courses are handled in the registration system (not EASy), so you will need to register as in any other course with a limited number of seats. 
 
 ### Will this course be offered again?
 
