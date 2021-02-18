@@ -17,7 +17,7 @@ Monday: None
 [Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019
 
 ### Assignments
-[Homework #1](url) due Friday 5pm
+Homework #1 due Friday 5pm
 
 ## Week 3: Transparency and Explainability
 
@@ -25,6 +25,8 @@ Monday: None
 [Monday](https://explainablesystems.comp.nus.edu.sg/2019/wp-content/uploads/2019/02/IUI19WS-ExSS2019-20.pdf): Lim, Yang, Abdul & Wang "Why these Explanations? Selecting Intelligibility Types for Explanation Goals" IUI Workshops 2019  
 [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020
 
+### Assignments
+Final Project: Proposal due Friday 5pm
 
 ## Week 4: Designing for Failure: Confidence and Errors
 
@@ -33,7 +35,7 @@ Monday: None
 [Wednesday](http://www.mjskay.com/papers/chi2018-uncertain-bus-decisions.pdf): Fernandes, Walls, Munson, Hullman & Kay "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making" CHI 2018
 
 ### Assignments
-[Homework #2](url) due Friday 5pm
+Homework #2 due Friday 5pm
 
 ## Week 5: Privacy
 
@@ -57,6 +59,9 @@ Monday: None
 [Monday](http://files.grouplens.org/papers/algorithmstouserexperience.pdf): Konstan & Riedl "Recommender systems: from algorithms to user experience" User Modeling and User-Adapted Interaction 2012  
 [Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
 
+### Assignments
+Final Project: Check In due Friday 5pm
+
 ## Week 8: Deepfakes and AI Generated Content
 
 ### Readings
@@ -75,5 +80,5 @@ Monday: None
 ## Week 10: Project Presentations
 
 ### Assignments
-[Project presentations](url) due Friday 5pm
+Final Project due Friday 5pm
 
