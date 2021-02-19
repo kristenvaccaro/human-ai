@@ -31,7 +31,7 @@ Percentage | Activity
 20% | Final Exam
 
 Quizzes are due 2 PM Monday and Wednesday (before the start of class)  
-Programming assignments are due Friday 2 PM  
+Programming assignments are due Friday 5 PM  
 
 Late Policy: You will receive *5 free late days* that can be used for programming assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
