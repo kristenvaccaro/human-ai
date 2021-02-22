@@ -33,6 +33,7 @@ Course related announcements will be shared on Piazza. Please use Piazza for you
 - Here’s where I’m stuck on the homework... (can also post to Piazza)
 - I don't think I quite understand \[topic\] yet. Can we talk about that? 
 - Can you give me feedback on my topic for the final project?
+- I could use some tips on how to \[study for this class, read research papers, prepare for the final exam...\]
 - What kinds of jobs use what we're learning in class? 
 - I'm not sure if I should apply for graduate school or industry jobs...
 
