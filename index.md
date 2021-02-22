@@ -27,17 +27,20 @@ Course related announcements will be shared on Piazza. Please use Piazza for you
 - What would be some examples of \[topic from the readings\]?
 - I'm stuck on the homework at \[xyz\]. Can someone suggest some ideas of what might be going wrong?
 - The instructions for the assignment are unclear. Are we supposed to do \[x\] or \[y\]?
+- I found a meme or news article related to class...
 
 #### Questions that are a good fit for office hours:
-- Here’s where I’m stuck on the homework...
+- Here’s where I’m stuck on the homework... (can also post to Piazza)
+- I don't think I quite understand \[topic\] yet. Can we talk about that? 
 - Can you give me feedback on my topic for the final project?
 - What kinds of jobs use what we're learning in class? 
-- I'm not sure if I should apply for graduate school...
+- I'm not sure if I should apply for graduate school or industry jobs...
 
 By default office hours will be group-office hours, as many students will have similar questions and can learn from each other. *If you have a personal issue*, please email me to set up a separate time.
 
 #### Questions that are a good fit for email:
 - Would you be willing to write a recommendation letter for me? 
+- I have a personal issue that will require submitting an assignment more than 5 days late...
 
 ## Grading
 
