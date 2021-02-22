@@ -12,14 +12,29 @@ Due to COVID-19 Monday and Wednesday class sessions will be recorded and made av
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
-kv@ucsd.edu Please read these email guidelines before sending your email!  
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/), and Piazza ([sign up here](https://piazza.com/ucsd/spring2021/cse190)) 
+kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/), and Piazza ([sign up here](https://piazza.com/ucsd/spring2021/cse190))    
 Office: 3226 CSE  
 
 TA TBD  
 
 ## Communication
 
+Course related announcements will be shared on Piazza. Please use Piazza for your course-related questions as well!
+
+Questions that are a good fit for Piazza:
+- 
+
+Questions that are a good fit for office hours:
+- Here’s where I’m stuck on the homework...
+- Can you give me feedback on my topic for the final project?
+- What kinds of jobs use what we're learning in class? 
+- I'm not sure if I should apply for graduate school...
+
+By default office hours will be group-office hours, as many students will have similar questions and can learn from each other. *If you have a personal issue*, please email me to set up a separate time.
+
+Questions that are a good fit for email:
+- Would you be willing to write a recommendation letter for me? 
 
 ## Grading
 
