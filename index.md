@@ -13,7 +13,7 @@ Due to COVID-19 Monday and Wednesday class sessions will be recorded and made av
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu Please read these email guidelines before sending your email!  
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), Canvas, and Piazza  
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/), and Piazza ([sign up here](https://piazza.com/ucsd/spring2021/cse190)) 
 Office: 3226 CSE  
 
 TA TBD  
