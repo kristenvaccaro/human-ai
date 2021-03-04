@@ -37,22 +37,31 @@ Final Project: Proposal due Friday 5pm
 ### Assignments
 Homework #2 due Friday 5pm
 
-## Week 5: Privacy
+## Week 5: Designing for Failure: Recourse and Contestability
+
+### Readings
+[Monday](https://arxiv.org/pdf/2010.04050.pdf): Karimi, Barthe, Schoelkopf & Valera "A survey of algorithmic recourse: contrastive explanations and consequential recommendations" 2021
+[Wednesday]() Woodruff "10 Things You Should Know About Algorithmic Fairness" Interactions 2019
+
+## Week 6: Privacy
 
 ### Readings
 [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
-[Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019  
+[Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019 
 
-## Week 6: Ethics and Social Justice
+### Assignments
+[Homework #3](url) due Friday 5pm
+
+## Week 7: Ethics and Social Justice
 
 ### Readings
 [Monday](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai): Matthew Hutson "Who Should Stop Unethical A.I.?" The New Yorker 2021  
 [Wednesday](https://arxiv.org/pdf/1912.04883.pdf): Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson "Roles for Computing in Social Change" FAccT 2020  
 
 ### Assignments
-[Homework #3](url) due Friday 5pm
+Final Project: Check In due Friday 5pm
 
-## Week 7: Recommendations
+## Week 8: Recommendations
 
 ### Readings
 
@@ -60,22 +69,14 @@ Homework #2 due Friday 5pm
 [Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
 
 ### Assignments
-Final Project: Check In due Friday 5pm
+[Homework #4](url) due Friday 5pm
 
-## Week 8: Deepfakes and AI Generated Content
+
+## Week 9: Deepfakes and AI Generated Content
 
 ### Readings
 [Monday](https://regmedia.co.uk/2019/10/08/deepfake_report.pdf): Ajder, Patrini, Cavalli & Cullen "The State of Deepfakes: Landscapes, Threats, and Impact" Deeptrace White Paper 2019  
 [Wednesday](https://youralien.github.io/files/cococo_chi2020_copy.pdf): Louie, Coenen, Huang, Terry & Cai "Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models" CHI 2020
-
-### Assignments
-[Homework #4](url) due Friday 5pm
-
-
-## Week 9: Student Choice
-
-[Monday](): Student Choice  
-[Wednesday](): Student Choice 
 
 ## Week 10: Project Presentations
 
