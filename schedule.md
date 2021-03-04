@@ -39,9 +39,9 @@ Homework #2 due Friday 5pm
 
 ## Week 5: Designing for Failure: Recourse and Contestability
 
-### Readings
-[Monday](https://arxiv.org/pdf/2010.04050.pdf): Karimi, Barthe, Schoelkopf & Valera "A survey of algorithmic recourse: contrastive explanations and consequential recommendations" 2021
-[Wednesday]() Woodruff "10 Things You Should Know About Algorithmic Fairness" Interactions 2019
+### Readings  
+[Monday](https://arxiv.org/pdf/2010.04050.pdf): Karimi, Barthe, Schoelkopf & Valera "A survey of algorithmic recourse: contrastive explanations and consequential recommendations" 2021  
+[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/woodruff_fairness.pdf) Woodruff "10 Things You Should Know About Algorithmic Fairness" Interactions 2019  
 
 ## Week 6: Privacy
 
