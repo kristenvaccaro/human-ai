@@ -15,8 +15,11 @@ Due to COVID-19 Monday and Wednesday class sessions will be recorded and made av
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/26593), and [Piazza](https://piazza.com/ucsd/spring2021/cse190)      
 Office: 3226 CSE  
+Office Hours: Monday 3 PM PT (Immediately after class)  
 
-TA TBD  
+TA  
+Dylan Lukes  
+Office Hours: TBD
 
 ## Communication
 
