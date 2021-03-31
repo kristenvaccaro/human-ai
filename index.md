@@ -4,6 +4,8 @@ This course provides an introduction to harnessing the power of AI so that it be
 
 ## Logistics
 
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/26593), and [Piazza](https://piazza.com/ucsd/spring2021/cse190)    
+
 Class Days and Times: Monday and Wednesday 2PM PT  
 Design Studio: Friday 2PM PT
 
@@ -12,8 +14,7 @@ Due to COVID-19 Monday and Wednesday class sessions will be recorded and made av
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
-kv@ucsd.edu -- Please read the communication guidelines below before emailing!    
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/26593), and [Piazza](https://piazza.com/ucsd/spring2021/cse190)      
+kv@ucsd.edu -- Please read the communication guidelines below before emailing!      
 Office: 3226 CSE  
 Office Hours: Monday 3 PM PT (Immediately after class)  
 
