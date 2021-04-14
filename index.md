@@ -20,7 +20,7 @@ Office Hours: Monday 3 PM PT (Immediately after class)
 
 TA  
 Dylan Lukes  
-Office Hours: Thursday 4 PM PT (Zoom link on Piazza)
+Office Hours: Thursday 4 PM PT (Zoom link on Piazza)  
 
 ## Communication
 
