@@ -44,7 +44,7 @@ Due Friday May 21, 5PM
 
 You will get some hands-on experience with various techniques for generating images using computer vision techniques… with dogs.   
 
-[Assignment Details](https://docs.google.com/document/d/1YDF1gOH0esCauIwjuJwSUbLtTvu5Xe9pscr3rgpXjk8/edit?usp=sharing) and [Materials](https://docs.google.com/document/d/1YDF1gOH0esCauIwjuJwSUbLtTvu5Xe9pscr3rgpXjk8/edit?usp=sharing) 
+[Assignment Details](https://docs.google.com/document/d/1YDF1gOH0esCauIwjuJwSUbLtTvu5Xe9pscr3rgpXjk8/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Hk-m31S54iPCvZCiSwtUZX2ZF-HmrCom?usp=sharing) 
 
 
 ## Final Project
