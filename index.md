@@ -55,6 +55,7 @@ Percentage | Activity
 30% | Programming Assignments
 30% | Final Project
 20% | Final Exam
++5% | Extra Credit: Active Class Participation  
 
 Quizzes are due 2 PM Monday and Wednesday (before the start of class)  
 Programming assignments are due Friday 5 PM  
