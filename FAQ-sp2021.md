@@ -7,16 +7,16 @@ According to the department:
 
 ### If my EASy application is approved, am I guaranteed a spot in the class?
 
-No. Again, according to the department:
-> An EASy approval does NOT guarantee a spot in the course.
+No. Again, according to the department:  
+> An EASy approval does NOT guarantee a spot in the course.  
 
 The caps for courses are handled in the registration system (not EASy). Seats are available on a first come first serve basis, as space permits. Once seats are filled, you can waitlist the course after your 2nd pass enrollment window opens.
 
 ### Will this course be offered again?
 
-Yes, this course is likely to be offered every year.
+Yes, this course is likely to be offered every year. 
 
-### Are there requirements for synchronous participation?
+### Are there requirements for synchronous participation? 
 
-Yes, this course will be offered in person and synchronous participation is expected.
+I strongly encourage you to attend the synchronous sessions to get the most out of the class. Since this course will be offered in the future, you may prefer to wait until future quarters to take it. That said, due to COVID-19 for the Spring 2021 offering all lecture/discussion classes (Mondays and Wednesdays) will be recorded and made available on Canvas. For the final project, you can either: find a group that is willing to meet outside of the Friday design studios (and/or coordinate asynchronous contributions) or choose the alternate (writing) activity. 
 
