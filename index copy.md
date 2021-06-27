@@ -4,23 +4,23 @@ This course provides an introduction to harnessing the power of AI so that it be
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/26593), and [Piazza](https://piazza.com/ucsd/spring2021/cse190)
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/26593), and [Piazza](https://piazza.com/ucsd/spring2021/cse190)    
 
-Class Days and Times: Monday and Wednesday 2PM PT
+Class Days and Times: Monday and Wednesday 2PM PT  
 Design Studio: Friday 2PM PT
 
-Due to COVID-19 Monday and Wednesday class sessions will be recorded and made available on Canvas
+Due to COVID-19 Monday and Wednesday class sessions will be recorded and made available on Canvas  
 
 ## Instructors
 
-[Kristen Vaccaro](http://kvaccaro.com)
-kv@ucsd.edu -- Please read the communication guidelines below before emailing!
-Office: 3226 CSE
-Office Hours: Monday 3 PM PT (Immediately after class)
+[Kristen Vaccaro](http://kvaccaro.com)  
+kv@ucsd.edu -- Please read the communication guidelines below before emailing!      
+Office: 3226 CSE  
+Office Hours: Monday 3 PM PT (Immediately after class)  
 
-TA
-Dylan Lukes
-Office Hours: Thursday 4 PM PT (Zoom link on Piazza)
+TA  
+Dylan Lukes  
+Office Hours: Thursday 4 PM PT (Zoom link on Piazza)  
 
 ## Communication
 
@@ -35,37 +35,37 @@ Course related announcements will be shared on Piazza. Please use Piazza for you
 
 #### Questions that are a good fit for office hours:
 - Here’s where I’m stuck on the homework... (can also post to Piazza)
-- I don't think I quite understand \[topic\] yet. Can we talk about that?
+- I don't think I quite understand \[topic\] yet. Can we talk about that? 
 - Can you give me feedback on my topic for the final project?
 - I could use some tips on how to \[study for this class, read research papers, prepare for the final exam...\]
-- What kinds of jobs use what we're learning in class?
+- What kinds of jobs use what we're learning in class? 
 - I'm not sure if I should apply for graduate school or industry jobs...
 
 By default office hours will be group-office hours, as many students will have similar questions and can learn from each other. *If you have a personal issue*, please email me to set up a separate time.
 
 #### Questions that are a good fit for email:
-- Would you be willing to write a recommendation letter for me?
+- Would you be willing to write a recommendation letter for me? 
 - I have a personal issue that will require submitting an assignment more than 5 days late...
 
 ## Grading
 
 Percentage | Activity
 --- | ---
-20% | Online Discussion
-20% | Programming & Design Assignments
-20% | Final Project
+20% | Quizzes
+30% | Programming Assignments
+30% | Final Project
 20% | Final Exam
-20% | Active Class Participation
++5% | Extra Credit: Active Class Participation  
 
-Online discussion responses are due 2 PM Monday and Wednesday (before the start of class)
-Programming and design assignments are due Friday 5 PM
+Quizzes are due 2 PM Monday and Wednesday (before the start of class)  
+Programming assignments are due Friday 5 PM  
 
-Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *5 free late days* that can be used for programming assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
 
 ## Student Support & Resources
-I encourage you to devote time and energy to all of your needs. If you could use help on any dimensions, including your scholarly, physical, or psychological well-being, UCSD has a number of resources, [some which can be found here](https://docs.google.com/document/d/1JgATnpJ6di513Pe_CqdOoSDaer_h6jz7oRQn7fZYNrA/edit).
+Graduate and undergraduate work can be very challenging for a number of reasons: research often lacks clear direction and goals, graduate students are not well compensated for their work, and there are often unclear boundaries between your professional and your personal, family, and social lives. I encourage you particularly in the unusually challenging time we are all experiencing now due to COVID-19 to devote time and energy to all of your needs. If you could use help on any of those dimensions (your scholarly, physical, or psychological well-being), UCSD has a number of resources, [some which can be found here](https://docs.google.com/document/d/1JgATnpJ6di513Pe_CqdOoSDaer_h6jz7oRQn7fZYNrA/edit).
 
-I am committed (as is UCSD) to full inclusion in education for all persons. Services and reasonable accommodations are available to students with temporary and permanent disabilities, to students with DACA or undocumented status, to students with health or other personal concerns, and to students with other kinds of support needs. Please feel free to let me know if there are circumstances that emerge that affect your ability to contribute to the class.
+I am committed (as is UCSD) to full inclusion in education for all persons. Services and reasonable accommodations are available to students with temporary and permanent disabilities, to students with DACA or undocumented status, to students with health or other personal concerns, and to students with other kinds of support needs. Please feel free to let me know if there are circumstances that emerge that affect your ability to contribute to the class. 
