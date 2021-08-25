@@ -13,14 +13,17 @@ Due to COVID-19 Monday and Wednesday class sessions will be recorded and made av
 
 ## Instructors
 
-[Kristen Vaccaro](http://kvaccaro.com)
-kv@ucsd.edu -- Please read the communication guidelines below before emailing!
-Office: 3226 CSE
-Office Hours: Monday 3 PM PT (Immediately after class)
+[Kristen Vaccaro](http://kvaccaro.com)  
+kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
+Office: 3226 CSE  
+Office Hours: TBD  
 
-TA
-Dylan Lukes
-Office Hours: Thursday 4 PM PT (Zoom link on Piazza)
+TAs  
+Mary Anne Smart  
+Office Hours: TBD  
+
+Jack Hale  
+Office Hours: TBD  
 
 ## Communication
 
