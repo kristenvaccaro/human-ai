@@ -4,6 +4,11 @@ title: Schedule
 
 # Schedule
 
+## Week 0: Introduction
+
+### Readings
+None  
+
 ## Week 1: Fairness and Bias
 
 ### Readings
