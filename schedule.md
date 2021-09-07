@@ -14,7 +14,7 @@ Monday: None
 
 ### Readings
 [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  
-[Wednesday](https://scholar.harvard.edu/files/19-fat.pdf): Green & Chen "Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments" FAccT 2019
+[Wednesday](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917): Martinez & Kirchner "The secret bias hidden in mortgage-approval algorithms" ABC News 2021  
 
 ### Assignments
 Homework #1 due Friday 5pm
