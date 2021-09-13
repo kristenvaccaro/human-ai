@@ -21,7 +21,7 @@ Homework #1 due Friday 5pm
 ## Week 2: Transparency and Explainability
 
 ### Readings
-[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020
+[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020  
 [Press](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) Knight "The Dark Secret at the Heart of AI" MIT Technology Review 2017  
 
 ### Assignments
