@@ -12,8 +12,8 @@ None
 ## Week 1: Fairness and Bias
 
 ### Readings
-[Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  
-[Wednesday](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917): Martinez & Kirchner "The secret bias hidden in mortgage-approval algorithms" ABC News 2021  
+[Research Article](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Big_Datas_Disparate_Impact.pdf): Barocas & Selbst "Big Data's Disparate Impact" California Law Review 2016 Introduction & Part I pp 671-693  
+[Press](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917): Martinez & Kirchner "The secret bias hidden in mortgage-approval algorithms" ABC News 2021  
 
 ### Assignments
 Homework #1 due Friday 5pm
@@ -21,8 +21,8 @@ Homework #1 due Friday 5pm
 ## Week 2: Transparency and Explainability
 
 ### Readings
-[Monday](https://explainablesystems.comp.nus.edu.sg/2019/wp-content/uploads/2019/02/IUI19WS-ExSS2019-20.pdf): Lim, Yang, Abdul & Wang "Why these Explanations? Selecting Intelligibility Types for Explanation Goals" IUI Workshops 2019  
 [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020
+[Press](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) Knight "The Dark Secret at the Heart of AI" MIT Technology Review 2017  
 
 ### Assignments
 Final Project: Proposal due Friday 5pm
