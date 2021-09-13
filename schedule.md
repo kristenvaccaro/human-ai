@@ -2,6 +2,12 @@
 title: Schedule
 ---
 
+# Deadlines
+
+Readings: Monday 1PM
+Discussion Questions: Monday 1PM
+Programming & Design Assignments: Friday 5PM 
+
 # Schedule
 
 ## Week 0: Introduction
