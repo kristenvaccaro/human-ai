@@ -11,30 +11,30 @@ Write your response to at least 3 of your peers by 1PM Wednesday, before the sta
 Online discussions will be assigned on Canvas.  
 Your lowest online discussion response score will be dropped automatically.  
 
-## Programming and Design Assignments
+## Programming & Design Assignments
 
 You will complete eight programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
 
 Programming assignments will be due at 5PM Friday, every week. No programming/design assignments for the last two weeks of the course.  
 
-### Links to Programming Assignments 
+### Links
 
 #### Homework #1
-Due Friday April 9, 5PM  
+Due Friday October 1, 5PM  
 
-You will explore and analyze data on home loan predictions.  
+You will explore and analyze a few datasets for home loan predictions. You will design a visualization to help others understand potential bias in the data.   
 
 [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Brk9t6k3TwUgiqbbUhWvgjdXCfyKV3G5?usp=sharing) 
 
 #### Homework #2
-Due Friday April 23, 5PM  
+Due Friday October 8, 5PM  
 
 You will create a mockup of the front-end to your loan application from Homework #1. Homework #1 offered you a chance to see what’s happening in the technical back-end; here you will make design decisions for what users see in the front end.  
 
 [Assignment Details](https://docs.google.com/document/d/1UWjBOvPt54EPQLNlaKxuspMXrzrAL5QO2xdhqDBI1I0/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Wy3kE-5CMlDWPr_DReif-ImtrkO6lciW?usp=sharing) 
 
 #### Homework #3
-Due Friday May 7, 5PM  
+Due Friday October 15, 5PM  
 
 You will create a “chatbot” (really a dialog system) to detect satire, and respond with a sassy response of your own. You’ll build your bot on Twitter -- people will write to your bot by starting their messages with @<yourbot> and your bot will figure out what it should say back.  
 
