@@ -2,19 +2,20 @@
 
 There will be four forms of assessment over the quarter: quizzes, programming assignments, a group project, and a final exam. All deadlines are given in PT.
 
-## Quizzes
+## Online Discussion
 
-You will complete quizzes before each Monday and Wednesday class. These quizzes will evaluate your understanding of the reading assigned for that day's class.  
+You will participate in the online discussion before each Monday and Wednesday class. These discussion questions will evaluate your understanding of -- and ability to apply the concepts from -- the reading assigned for that week's class.  
 
-Quizzes will be due at 2PM, before the start of class.  
-Quizzes will be assigned on Canvas.
-Your lowest quiz score will be dropped automatically. 
+Write your initial response to the questions/prompts by 1PM Monday, before the start of class.   
+Write your response to at least 3 of your peers by 1PM Wednesday, before the start of class.  
+Online discussions will be assigned on Canvas.  
+Your lowest online discussion response score will be dropped automatically.  
 
-## Programming Assignments
+## Programming and Design Assignments
 
-You will complete four programming assignments over the course of the quarter. These programming assignments will help you understand and apply the concepts we talk about in class. 
+You will complete eight programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
 
-Programming assignments will be due at 5PM Friday, every other week: Weeks 2, 4, 6, and 8.
+Programming assignments will be due at 5PM Friday, every week. No programming/design assignments for the last two weeks of the course.  
 
 ### Links to Programming Assignments 
 
