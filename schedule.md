@@ -14,17 +14,17 @@ Programming & Design Assignments: Friday 5PM
 None  
 
 ## Week 1: Fairness and Bias
-[Research Article](https://arxiv.org/pdf/1901.10002.pdf): Suresh & Guttag "A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle" 2021  
-[Press](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917): Martinez & Kirchner "The secret bias hidden in mortgage-approval algorithms" ABC News 2021  
+Research: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
+News: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
 
 ## Week 2: Transparency and Explainability
-[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf): Liao, Gruen & Miller "Questioning the AI: Informing Design Practices for Explainable AI User Experiences" CHI 2020  
-[Press](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) Knight "The Dark Secret at the Heart of AI" MIT Technology Review 2017  
+Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
+News: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
 
 ## Week 3: Recommendations
 
-[Monday](http://files.grouplens.org/papers/algorithmstouserexperience.pdf): Konstan & Riedl "Recommender systems: from algorithms to user experience" User Modeling and User-Adapted Interaction 2012  
-[Wednesday](https://arxiv.org/pdf/2102.05756.pdf): Hohenstein, DiFranzo, Kizilcec, Aghajari, Mieczkowski, Levy, Naaman, Hancock & Jung "Artificial intelligence in communication impacts language and social relationships" 2021
+Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers/algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012  
+Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://arxiv.org/pdf/2102.05756.pdf) Wired 2019
 
 ## Week 4: Designing for Failure: Confidence and Errors
 [Monday](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf): Kocielnik, Amershi & Bennett "Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems" CHI 2019  
