@@ -27,25 +27,24 @@ Research: Konstan & Riedl ["Recommender systems: from algorithms to user experie
 Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://arxiv.org/pdf/2102.05756.pdf) Wired 2019
 
 ## Week 4: Designing for Failure: Confidence and Errors
-[Monday](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf): Kocielnik, Amershi & Bennett "Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems" CHI 2019  
-[Wednesday](http://www.mjskay.com/papers/chi2018-uncertain-bus-decisions.pdf): Fernandes, Walls, Munson, Hullman & Kay "Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making" CHI 2018
+Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
+News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
 
 ## Week 5: Designing for Failure: Recourse and Contestability
-[Monday](https://arxiv.org/pdf/2010.04050.pdf): Karimi, Barthe, Schoelkopf & Valera "A survey of algorithmic recourse: contrastive explanations and consequential recommendations" 2021  
-[Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/woodruff_fairness.pdf) Woodruff "10 Things You Should Know About Algorithmic Fairness" Interactions 2019  
+Research: Karimi, Barthe, Schoelkopf & Valera ["A survey of algorithmic recourse: contrastive explanations and consequential recommendations"](https://arxiv.org/pdf/2010.04050.pdf) 2021  
+News:  
 
 ## Week 6: Privacy
-[Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf): Ohm "Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization" UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
-[Wednesday](http://library.usc.edu.ph/ACM/CHI2019/1proc/paper594.pdf): Sun, Mhaidli, Watel, Brooks & Schaub "It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard" CHI 2019 
+Research: Ohm ["Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf) UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
+News:  
 
-
-## Week 7: Ethics and Social Justice
-[Monday](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai): Matthew Hutson "Who Should Stop Unethical A.I.?" The New Yorker 2021  
-[Wednesday](https://arxiv.org/pdf/1912.04883.pdf): Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson "Roles for Computing in Social Change" FAccT 2020  
+## Week 7: Ethics and Social Justice  
+Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020  
+News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
 ## Week 8: Deepfakes and AI Generated Content
-[Monday](https://regmedia.co.uk/2019/10/08/deepfake_report.pdf): Ajder, Patrini, Cavalli & Cullen "The State of Deepfakes: Landscapes, Threats, and Impact" Deeptrace White Paper 2019  
-[Wednesday](https://youralien.github.io/files/cococo_chi2020_copy.pdf): Louie, Coenen, Huang, Terry & Cai "Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models" CHI 2020
+Research: Louie, Coenen, Huang, Terry & Cai ["Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models"](https://youralien.github.io/files/cococo_chi2020_copy.pdf) CHI 2020
+News: 
 
 ## Week 9: Project Presentations
 None
