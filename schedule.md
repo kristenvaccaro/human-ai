@@ -14,7 +14,7 @@ Programming & Design Assignments: Friday 5PM
 None  
 
 ## Week 1: Fairness and Bias
-[Research Article](https://arxiv.org/pdf/1901.10002.pdf): Barocas & Selbst "A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle" 2021
+[Research Article](https://arxiv.org/pdf/1901.10002.pdf): Barocas & Selbst "A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle" 2021  
 [Press](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917): Martinez & Kirchner "The secret bias hidden in mortgage-approval algorithms" ABC News 2021  
 
 ## Week 2: Transparency and Explainability
