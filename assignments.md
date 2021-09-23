@@ -1,6 +1,6 @@
 # Assignments
 
-There will be four forms of assessment over the quarter: quizzes, programming assignments, a group project, and a final exam. All deadlines are given in PT.
+There will be five forms of assessment over the quarter: online discussion, in-person discussion/participation, programming&design assignments, a group project, and a final exam. All are weighted equally (20% each). All deadlines are given in PT.
 
 ## Online Discussion
 
@@ -13,7 +13,7 @@ Your lowest online discussion response score will be dropped automatically.
 
 ## Programming & Design Assignments
 
-You will complete eight programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
+You will complete eight weekly programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
 
 Programming assignments will be due at 5PM Friday, every week. No programming/design assignments for the last two weeks of the course.  
 
@@ -26,27 +26,6 @@ You will explore and analyze a few datasets for home loan predictions. You will 
 
 [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Brk9t6k3TwUgiqbbUhWvgjdXCfyKV3G5?usp=sharing) 
 
-#### Homework #2
-Due Friday October 8, 5PM  
-
-You will create a mockup of the front-end to your loan application from Homework #1. Homework #1 offered you a chance to see what’s happening in the technical back-end; here you will make design decisions for what users see in the front end.  
-
-[Assignment Details](https://docs.google.com/document/d/1UWjBOvPt54EPQLNlaKxuspMXrzrAL5QO2xdhqDBI1I0/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Wy3kE-5CMlDWPr_DReif-ImtrkO6lciW?usp=sharing) 
-
-#### Homework #3
-Due Friday October 15, 5PM  
-
-You will create a “chatbot” (really a dialog system) to detect satire, and respond with a sassy response of your own. You’ll build your bot on Twitter -- people will write to your bot by starting their messages with @<yourbot> and your bot will figure out what it should say back.  
-
-[Assignment Details](https://docs.google.com/document/d/1gxAIkcAxu5toPL-aHDaeJVaDqmzQKkSUnLZ5nM17hmo/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1rjRX1JRIYkfwctYpmtxP2R8jISmOxCNE?usp=sharing) 
-
-#### Homework #4
-Due Friday May 21, 5PM  
-
-You will get some hands-on experience with various techniques for generating images using computer vision techniques… with dogs.   
-
-[Assignment Details](https://docs.google.com/document/d/1YDF1gOH0esCauIwjuJwSUbLtTvu5Xe9pscr3rgpXjk8/edit?usp=sharing) and [Materials](https://drive.google.com/drive/folders/1Hk-m31S54iPCvZCiSwtUZX2ZF-HmrCom?usp=sharing) 
-
 
 ## Final Project
 
@@ -57,4 +36,4 @@ If for logisitical or other reasons you don't wish to participate in a group, yo
 
 ## Final Exam
 
-A final exam will evaluate your understanding of the material for the entire quarter. It will consist of both multiple choice questions (similar to the quiz questions) and open-ended responses. The final exam time is set by the university; if you need a conflict exam, please contact myself and the TA.
+A final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended responses, similar to the online and in-person discussions as well as your homework assignments. The final exam time is set by the university; if you need a conflict exam, please contact myself and the TAs.
