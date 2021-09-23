@@ -37,14 +37,14 @@ News: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wi
 
 ## Week 6: Privacy
 Research: Ohm ["Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf) UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
-News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019   
+News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019    
 
 ## Week 7: Ethics and Social Justice  
-Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020  
+Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
 ## Week 8: Deepfakes and AI Generated Content
-Research: Greengard ["Will Deepfakes Do Deep Damage?"](https://dl.acm.org/doi/10.1145/3371409) Communications of the ACM 2020
+Research: Greengard ["Will Deepfakes Do Deep Damage?"](https://dl.acm.org/doi/10.1145/3371409) Communications of the ACM 2020  
 News: Simonite [These Deepfake Voices Can Help Trans Gamers]("https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
 
 ## Week 9: Project Presentations
