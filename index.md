@@ -4,7 +4,7 @@ This course provides an introduction to harnessing the power of AI so that it be
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/26593)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
 
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  
@@ -55,10 +55,10 @@ By default office hours will be group-office hours, as many students will have s
 Percentage | Activity
 --- | ---
 20% | Online Discussion
+20% | Active Class Participation
 20% | Programming & Design Assignments
 20% | Final Project
 20% | Final Exam
-20% | Active Class Participation
 
 Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
 Programming and design assignments are due Friday 5 PM
