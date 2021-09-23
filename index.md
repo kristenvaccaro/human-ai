@@ -8,8 +8,6 @@ Course materials/website: [Course Website](https://kristenvaccaro.github.io/huma
 
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  
-
-Due to COVID-19 Monday and Wednesday class sessions will be recorded and made available on Canvas
   
 ## Instructors
 
