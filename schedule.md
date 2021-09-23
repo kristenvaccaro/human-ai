@@ -29,7 +29,7 @@ Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://arxi
 
 ## Week 4: Designing for Failure: Confidence and Errors
 Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
-News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
+News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
 
 ## Week 5: Designing for Failure: Recourse and Contestability
 Research: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
