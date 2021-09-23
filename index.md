@@ -60,7 +60,7 @@ Percentage | Activity
 20% | Final Exam
 20% | Active Class Participation
 
-Online discussion responses are due 2 PM Monday and Wednesday (before the start of class)
+Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
 Programming and design assignments are due Friday 5 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
