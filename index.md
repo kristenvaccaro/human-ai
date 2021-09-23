@@ -6,7 +6,7 @@ This course provides an introduction to harnessing the power of AI so that it be
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
 
-Classroom: RWAC 0121 
+Classroom: RWAC 0121   
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  
   
