@@ -15,7 +15,7 @@ Design Studio: Friday 1PM PT
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
-Office Hours: TBD  
+Office Hours: Monday 2-3 PM 
 
 TAs  
 Mary Anne Smart  
