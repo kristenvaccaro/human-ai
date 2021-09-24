@@ -1,4 +1,4 @@
-# Human-AI Interaction: Spring 2021
+# Human-AI Interaction: Fall 2021
 
 This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.
 
