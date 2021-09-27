@@ -32,7 +32,7 @@ Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps
 
 ## Communication
 
-Course related announcements will be shared on Piazza. Please use Piazza for your course-related questions as well!
+Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!
 
 #### Questions that are a good fit for Canvas Discussions:
 - Can someone help me understand this section of the reading?
