@@ -14,9 +14,14 @@ Programming & Design Assignments: Friday 5PM
 ## Week 0: Introduction
 None  
 
+_Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
+
 ## Week 1: Fairness and Bias
 Research: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
 News: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
+
+_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210927_FairnessBias.pdf)_  
+_Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210929_FairnessBias_2.pdf)_  
 
 ## Week 2: Transparency and Explainability
 Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
