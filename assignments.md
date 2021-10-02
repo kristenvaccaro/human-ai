@@ -27,6 +27,14 @@ Will be released Friday September 24.
 
 [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
+#### Homework #2
+Due Friday October 8, 5PM  
+
+You will build a model for home loan predictions and explain the model predictions to others.   
+Will be released Friday October 1.  
+
+[Materials](https://github.com/kristenvaccaro/CSE190-HW2)
+
 
 ## Final Project
 
