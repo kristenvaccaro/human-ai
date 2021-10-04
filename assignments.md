@@ -33,7 +33,13 @@ Due Friday October 8, 5PM
 You will build a model for home loan predictions and explain the model predictions to others.   
 Will be released Friday October 1.  
 
-[Materials](https://github.com/kristenvaccaro/CSE190-HW2)
+[Materials](https://github.com/kristenvaccaro/CSE190-HW2)  
+
+#### Homework #3
+Due Friday October 15, 5PM  
+
+You will build a model for music recommendations and explain the recommendations to users.   
+Will be released Friday October 8.  
 
 
 ## Final Project
