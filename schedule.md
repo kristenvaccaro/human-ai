@@ -27,6 +27,8 @@ _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-int
 Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
 News: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
 
+_Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211004_Explanations.pdf)_  
+
 ## Week 3: Recommendations
 
 Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers/algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012  
