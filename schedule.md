@@ -28,6 +28,7 @@ Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices 
 News: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
 
 _Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211004_Explanations.pdf)_  
+_Slides: [Friday - Rubric & Needfinding](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211008_Rubric.pdf)_   
 
 ## Week 3: Recommendations
 
@@ -52,7 +53,7 @@ News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.c
 
 ## Week 8: Deepfakes and AI Generated Content
 Research: Greengard ["Will Deepfakes Do Deep Damage?"](https://dl.acm.org/doi/10.1145/3371409) Communications of the ACM 2020  
-News: Simonite [These Deepfake Voices Can Help Trans Gamers]("https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
+News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
 
 ## Week 9: Project Presentations
 None
