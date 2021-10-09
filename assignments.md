@@ -41,6 +41,8 @@ Due Friday October 15, 5PM
 You will build a model for music recommendations and explain the recommendations to users.   
 Will be released Friday October 8.  
 
+[Materials](https://github.com/kristenvaccaro/CSE190-HW3)   
+
 
 ## Final Project
 
