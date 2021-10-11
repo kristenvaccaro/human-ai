@@ -33,7 +33,7 @@ _Slides: [Friday - Rubric & Needfinding](https://s3.amazonaws.com/kvaccaro.com/t
 ## Week 3: Recommendations
 
 Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers/algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012  
-Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://arxiv.org/pdf/2102.05756.pdf) Wired 2019
+Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://www.wired.com/story/the-toxic-potential-of-youtubes-feedback-loop/) Wired 2019
 
 ## Week 4: Designing for Failure: Confidence and Errors
 Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
