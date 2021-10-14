@@ -35,6 +35,8 @@ _Slides: [Friday - Rubric & Needfinding](https://s3.amazonaws.com/kvaccaro.com/t
 Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers/algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012  
 Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://www.wired.com/story/the-toxic-potential-of-youtubes-feedback-loop/) Wired 2019
 
+_Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211011_Recommendations.pdf)_  
+
 ## Week 4: Designing for Failure: Confidence and Errors
 Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
 News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
