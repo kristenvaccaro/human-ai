@@ -43,6 +43,14 @@ Will be released Friday October 8.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW3)   
 
+#### Homework #4
+Due Friday October 22, 5PM   
+
+You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
+Will be released Friday October 15.  
+
+[Materials](https://github.com/kristenvaccaro/CSE190-HW4/blob/main/Week_4_Confidence_and_Errors.ipynb)   
+
 
 ## Final Project
 
