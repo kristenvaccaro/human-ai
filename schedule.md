@@ -42,7 +42,7 @@ Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Explor
 News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
 
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211018_Expectations.pdf)_  
-
+_Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211018_Uncertainty.pdf)_
 
 ## Week 5: Designing for Failure: Recourse and Contestability
 Research: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
