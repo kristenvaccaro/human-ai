@@ -59,6 +59,14 @@ Will be released Friday October 22.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5)   
 
+<!--#### Homework #5
+Due Friday November 5, 5PM   
+
+Practice final exam.    
+Will be released Friday October 29.  
+
+[Materials]()   -->
+
 
 
 ## Final Project
