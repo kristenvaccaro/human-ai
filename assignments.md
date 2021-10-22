@@ -54,7 +54,7 @@ Will be released Friday October 15.
 #### Homework #5
 Due Friday October 29, 5PM   
 
-You will design interactions to support recourse and contestability when a hate speech detection system malfunctions.    
+You will design interactions to support recourse and contestability for hate speech detection on social media.    
 Will be released Friday October 22.  
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5)   
