@@ -48,6 +48,10 @@ _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-int
 Research: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
 News: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wired.com/story/what-does-a-fair-algorithm-look-like/) Wired 2018   
 
+_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211025_RecourseContestability.pdf)_  
+_Notes: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/Contestability_brainstorming.pdf)_
+
+
 ## Week 6: Privacy
 Research: Ohm ["Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf) UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
 News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019    
