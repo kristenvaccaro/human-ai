@@ -56,6 +56,11 @@ _Notes: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-inte
 Research: Ohm ["Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Broken_Promises_of_Privacy.pdf) UCLA Law Review 2015 Introduction and Part I pp 1701-1731  
 News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019    
 
+_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211101_Privacy.pdf)_  
+_Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211103_Privacy_2.pdf)_
+
+
+
 ## Week 7: Ethics and Social Justice  
 Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
