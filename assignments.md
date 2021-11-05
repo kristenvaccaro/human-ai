@@ -67,7 +67,7 @@ Will be released Friday October 29.
 
 [Materials](https://docs.google.com/document/d/1phdd7YJCEp1WPF0FIiCtzLe8SvLphrcEB8gdf7ThM1g/edit?usp=sharing)  
 
-#### Homework #5
+#### Homework #7
 Due Friday November 12, 5PM   
 
 You will design systems to address an ethics/social justice issue of your choice.    
