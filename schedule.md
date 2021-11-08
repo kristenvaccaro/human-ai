@@ -65,6 +65,8 @@ _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-int
 Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
+_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211108_Ethics.pdf)_   
+
 ## Week 8: Deepfakes and AI Generated Content
 Research: Greengard ["Will Deepfakes Do Deep Damage?"](https://dl.acm.org/doi/10.1145/3371409) Communications of the ACM 2020  
 News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
