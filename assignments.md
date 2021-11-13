@@ -75,6 +75,15 @@ Will be released Friday November 5.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW7)   
 
+#### Homework #8
+Due Friday November 19, 5PM   
+
+You will design systems to use AI generated content.    
+Will be released Friday November 12.  
+
+[Materials](https://github.com/kristenvaccaro/CSE190-HW8)   
+
+
 
 ## Final Project
 
