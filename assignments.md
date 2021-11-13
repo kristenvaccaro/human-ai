@@ -78,7 +78,7 @@ Will be released Friday November 5.
 #### Homework #8
 Due Friday November 19, 5PM   
 
-Last homework! You will design systems to use AI generated content.    
+Last homework!🎉 You will design systems to use AI generated content.    
 Will be released Friday November 12.  
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW8)   
