@@ -10,9 +10,9 @@ For an overview of basic concepts related to AI and interaction design, review t
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
 
-Classroom: RWAC 0121   
-Class Days and Times: Monday and Wednesday 1PM PT  
-Design Studio: Friday 1PM PT  
+Classroom: Center Hall Room 105   
+Class Days and Times: Monday and Wednesday 3PM PT   
+Design Studio: Friday 3PM PT   
 
 ## Instructors
 
@@ -24,7 +24,7 @@ Office Hours: Monday 2-3 PM
 TAs  
 [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
-Office Hours: TBD    
+Office Hours: Thursday 2-3 PM via Zoom     
 
 ## Communication
 
