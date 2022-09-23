@@ -8,7 +8,7 @@ For an overview of basic concepts related to AI and interaction design, review t
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/39763)   
 
 Classroom: Center Hall Room 105   
 Class Days and Times: Monday and Wednesday 3PM PT   
