@@ -22,7 +22,7 @@ Programming assignments will be due at 5PM Friday, every week. No programming/de
 #### Homework #1
 Due Friday September 30, 5PM  
 
-You will explore and analyze a couple datasets related to intern hiring. You will design a visualization to help others understand potential bias in the data.   
+You will explore and analyze two datasets related to intern hiring. You will design a visualization to help others understand potential bias in the data.   
 Will be released Friday September 23.  
 
  [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
