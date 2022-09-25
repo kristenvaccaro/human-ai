@@ -14,7 +14,7 @@ Programming & Design Assignments: Friday 5PM
 ## Week 0: Introduction
 None  
 
-_Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
+_Slides: [Friday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERc20_YWmH9Is30ofO8NLOMBdLuaolp8PLEEnduFXE5s3A?e=n2nPxn)_
 
 ## Week 1: Fairness and Bias
 Research: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
