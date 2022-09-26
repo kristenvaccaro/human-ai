@@ -24,7 +24,7 @@ Office Hours: Monday 2-3 PM
 TAs  
 [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
 msmart@ucsd.edu  
-Office Hours: Thursday 2-3 PM via Zoom     
+Office Hours: Thursday 2-3 PM via Zoom (Meeting ID: 912 9281 2372))     
 
 ## Communication
 
