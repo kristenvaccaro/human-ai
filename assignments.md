@@ -1,6 +1,6 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: online discussion, in-person discussion/participation, programming&design assignments, a group project, and a final exam. All are weighted equally (20% each). All deadlines are given in PT.
+There will be four forms of assessment over the quarter: online discussion (20%), in-person discussion (20%), programming&design assignments (30%), and a group project (30%). All deadlines are given in PT.
 
 ## Online Discussion
 
