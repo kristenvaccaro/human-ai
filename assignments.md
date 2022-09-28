@@ -27,58 +27,58 @@ Will be released Friday September 23.
  [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
 #### Homework #2
-Due Friday October 8, 5PM  
+Due Friday October 7, 5PM  
 
 You will build a model for home loan predictions and explain the model predictions to others.   
-Will be released Friday October 1.  
+Will be released Friday September 30.  
 
 <!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW2)  --->
 
 #### Homework #3
-Due Friday October 15, 5PM  
+Due Friday October 14, 5PM  
 
 You will build a model for music recommendations and explain the recommendations to users.   
-Will be released Friday October 8.  
+Will be released Friday October 7.  
 
 <!---[Materials](https://github.com/kristenvaccaro/CSE190-HW3)   --->
 
 #### Homework #4
-Due Friday October 22, 5PM   
+Due Friday October 21, 5PM   
 
 You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
-Will be released Friday October 15.  
+Will be released Friday October 14.  
 
 <!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW4)   --->
 
 #### Homework #5
-Due Friday October 29, 5PM   
+Due Friday October 28, 5PM   
 
 You will design interactions to support recourse and contestability for hate speech detection on social media.    
-Will be released Friday October 22.  
+Will be released Friday October 21.  
 
 <!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW5) --->  
 
 #### Homework #6
-Due Friday November 5, 5PM   
+Due Friday November 4, 5PM   
 
 Practice final exam.    
-Will be released Friday October 29.  
+Will be released Friday October 28.  
 
 <!--- [Materials](https://docs.google.com/document/d/1phdd7YJCEp1WPF0FIiCtzLe8SvLphrcEB8gdf7ThM1g/edit?usp=sharing)  --->
 
 #### Homework #7
-Due Friday November 12, 5PM   
+Due Friday November 11, 5PM   
 
 You will design systems to address an ethics/social justice issue of your choice.    
-Will be released Friday November 5.  
+Will be released Friday November 4.  
 
 <!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW7)   --->
 
 #### Homework #8
-Due Friday November 19, 5PM   
+Due Friday November 18, 5PM   
 
 Last homework!🎉 You will design systems to use AI generated content.    
-Will be released Friday November 12.  
+Will be released Friday November 11.  
 
 <!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW8)   --->
 
