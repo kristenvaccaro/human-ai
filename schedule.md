@@ -4,9 +4,8 @@ title: Schedule
 
 # Deadlines
 
-Readings: Monday 1PM  
-Discussion Questions: Monday 1PM  
-Peer Discussion Responses: Wednesday 1PM  
+Readings: Monday 3PM  
+Discussion Questions: Monday 3PM  
 Programming & Design Assignments: Friday 5PM    
 
 # Topics & Readings
