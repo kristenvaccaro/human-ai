@@ -8,7 +8,7 @@ For an overview of basic concepts related to AI and interaction design, review t
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/39763)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/39763), and [Piazza](https://piazza.com/ucsd/fall2022/cse190)   
 
 Classroom: Center Hall Room 105   
 Class Days and Times: Monday and Wednesday 3PM PT   
@@ -19,7 +19,7 @@ Design Studio: Friday 3PM PT
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
-Office Hours: Monday 2-3 PM
+Office Hours: Monday 4PM  
 
 TAs  
 [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
@@ -30,7 +30,7 @@ Office Hours: Thursday 2-3 PM via Zoom (Meeting ID: 912 9281 2372))
 
 Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!
 
-#### Questions that are a good fit for Canvas Discussions:
+#### Questions that are a good fit for Piazza:
 - Can someone help me understand this section of the reading?
 - What would be some examples of \[topic from the readings\]?
 - I'm stuck on the homework at \[xyz\]. Can someone suggest some ideas of what might be going wrong?
@@ -53,15 +53,14 @@ By default office hours will be group-office hours, as many students will have s
 
 ## Grading
 
-Percentage | Activity
---- | ---
-20% | Online Discussion
-20% | Active Class Participation
-20% | Programming & Design Assignments
-20% | Final Project
-20% | Final Exam
+Percentage | Activity  
+--- | ---  
+20% | Online Discussion  
+20% | Active Class Participation  
+30% | Programming & Design Assignments  
+30% | Final Project  
 
-Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
+Online discussion responses are due 3 PM Monday (before the start of class)
 Programming and design assignments are due Friday 5 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
