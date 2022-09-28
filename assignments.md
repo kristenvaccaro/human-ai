@@ -6,7 +6,7 @@ There will be four forms of assessment over the quarter: online discussion (20%)
 
 You will participate in the online discussion before each Monday class. These discussion questions will evaluate your understanding of -- and ability to apply the concepts from -- the reading assigned for that week's class.  
 
-Write your initial response to the questions/prompts by 3PM Monday, before the start of class.   
+Write your response to the questions/prompts by 3PM Monday, before the start of class.   
 Online discussions will be assigned on Canvas.  
 Your lowest online discussion response score will be dropped automatically.  
 
