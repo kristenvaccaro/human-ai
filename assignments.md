@@ -32,7 +32,7 @@ Due Friday October 7, 5PM
 You will evaluate and improve explanations Instagram provides for its Explore tab recommendations.   
 Will be released Friday September 30.  
 
-<!--- [Materials](https://github.com/kristenvaccaro/CSE190-HW2)  --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW2)
 
 #### Homework #3
 Due Friday October 14, 5PM  
