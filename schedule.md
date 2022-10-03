@@ -64,7 +64,7 @@ News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wi
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211101_Privacy.pdf)_  
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211103_Privacy_2.pdf)_
 
-## Week 7: Ethics and Social Justice  
+## Week 8: Ethics and Social Justice  
 Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
