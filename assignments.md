@@ -37,10 +37,10 @@ Will be released Friday September 30.
 #### Homework #3
 Due Friday October 14, 5PM  
 
-You will build a model for music recommendations and explain the recommendations to users.   
+You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
 Will be released Friday October 7.  
 
-<!---[Materials]()   --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW3)
 
 #### Homework #4
 Due Friday October 21, 5PM   
