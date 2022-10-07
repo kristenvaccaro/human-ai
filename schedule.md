@@ -26,8 +26,8 @@ _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro
 Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
 News: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
 
-_Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211004_Explanations.pdf)_  
-_Slides: [Friday - Rubric & Needfinding](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211008_Rubric.pdf)_   
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EeGSlsdgLpJLu4O2JKCauFcBcOW7KBZv1befLwSanCC1oA?e=acwcRg)_  
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EVO-pQC7McdBm0j3FQAUceIBQC9z6DSStXuhf1RWO-FdfA?e=m6kIBP)_   
 
 ## Week 3: Designing for Failure: Confidence and Errors
 Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
