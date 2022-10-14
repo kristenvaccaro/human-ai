@@ -45,10 +45,9 @@ Will be released Friday October 7.
 #### Homework #4
 Due Friday October 21, 5PM   
 
-You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
-Will be released Friday October 14.  
+You will design interactions to support recourse and contestability for hate speech detection on social media.     
 
-<!--- [Materials]()   --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW4)  
 
 #### Homework #5
 Due Friday October 28, 5PM   
