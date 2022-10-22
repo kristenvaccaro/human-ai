@@ -52,15 +52,15 @@ You will design interactions to support recourse and contestability for hate spe
 #### Homework #5
 Due Friday October 28, 5PM   
 
-You will design interactions to support recourse and contestability for hate speech detection on social media.    
+You will design interactions around voice and image AI-generated content.    
 Will be released Friday October 21.  
 
-<!--- [Materials]() --->  
+[Materials](https://github.com/kristenvaccaro/CSE190-HW5-2022) 
 
 #### Homework #6
 Due Friday November 4, 5PM   
 
-Practice final exam.    
+You will design interactions around text AI-generated content.    
 Will be released Friday October 28.  
 
 <!--- [Materials]()  --->
