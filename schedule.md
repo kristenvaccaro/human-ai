@@ -43,14 +43,14 @@ News: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wi
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211025_RecourseContestability.pdf)_  
 _Notes: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/Contestability_brainstorming.pdf)_
 
-## Week 5: Deepfakes and AI Generated Content
-Research: Greengard ["Will Deepfakes Do Deep Damage?"](https://dl.acm.org/doi/10.1145/3371409) Communications of the ACM 2020  
+## Week 5: AI Generated Content - Audio & Image
+Research: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
 News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
 
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211110_Deepfakes.pdf)_   
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211112_Deepfakes2.pdf)_   
 
-## Week 6: Other AI Generated Content
+## Week 6: AI Generated Content - Text
 Research: TBD   
 News: TBD  
 
