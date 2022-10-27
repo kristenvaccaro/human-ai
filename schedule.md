@@ -51,8 +51,8 @@ _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211112_Deepfakes2.pdf)_   
 
 ## Week 6: AI Generated Content - Text
-Research: TBD   
-News: TBD  
+Research: Vaithilingam, Zhang & Glassman [Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models](https://dl.acm.org/doi/abs/10.1145/3491101.3519665) CHI Posters 2022   
+News: Peritz [A.I. Is Making It Easier Than Ever for Students to Cheat](https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html) Slate 2022  
 
 _Slides: [Monday]()_   
 _Slides: [Wednesday]()_   
