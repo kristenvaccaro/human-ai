@@ -60,10 +60,10 @@ Will be released Friday October 21.
 #### Homework #6
 Due Friday November 4, 5PM   
 
-You will design interactions around text AI-generated content.    
+You will design interactions around text AI-generated text.    
 Will be released Friday October 28.  
 
-<!--- [Materials]()  --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
 
 #### Homework #7
 Due Friday November 11, 5PM   
