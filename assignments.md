@@ -68,10 +68,10 @@ Will be released Friday October 28.
 #### Homework #7
 Due Friday November 11, 5PM   
 
-You will design systems to address an ethics/social justice issue of your choice.    
-Will be released Friday November 4.  
+In this assignment you will consider privacy-utility tradeoffs in the design of ed tech software like Canvas.    
+Will be released Friday November 4.
 
-<!--- [Materials]()   --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW7)  
 
 #### Homework #8
 Due Friday November 18, 5PM   
