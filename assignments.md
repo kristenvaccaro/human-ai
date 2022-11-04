@@ -68,7 +68,7 @@ Will be released Friday October 28.
 #### Homework #7
 Due Friday November 11, 5PM   
 
-In this assignment you will consider privacy-utility tradeoffs in the design of ed tech software like Canvas.    
+You will consider privacy-utility tradeoffs in the design of ed tech software like Canvas.    
 Will be released Friday November 4.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW7)  
