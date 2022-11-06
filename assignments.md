@@ -66,7 +66,7 @@ Will be released Friday October 28.
 [Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
 
 #### Homework #7
-Due Friday November 11, 5PM   
+Due Thursday November 10, 5PM   
 
 You will consider privacy-utility tradeoffs in the design of ed tech software like Canvas.    
 Will be released Friday November 4.
