@@ -76,10 +76,10 @@ Will be released Friday November 4.
 #### Homework #8
 Due Friday November 18, 5PM   
 
-Last homework!🎉 You will design systems to use AI generated content.    
+You will design systems to address an ethics/social justice issue of your choice.   
 Will be released Friday November 11.  
 
-<!--- [Materials]()   --->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
 
 
