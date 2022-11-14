@@ -68,7 +68,7 @@ _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-int
 Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
-_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211108_Ethics.pdf)_   
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX5ivYztPkJNg3eaGygGXrEBFM8O7hLGAndX1HcKZL1GZw?e=g7rd0Z)_   
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211110_Ethics_2.pdf)_   
 
 
