@@ -79,8 +79,10 @@ _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-int
 
 <!-- _Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211011_Recommendations.pdf)_ --> 
 
-## Week 9: Project Presentations
-None
+## Week 9: AI & Accessibility
+Research: Morris [AI and Accessibility](https://dl.acm.org/doi/10.1145/3356727)
+News: Tugend [How Robots Can Assist Students With Disabilities](https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html)
+
 
 ## Week 10: Project Presentations
 None
