@@ -47,15 +47,15 @@ _Notes: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-inte
 Research: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
 News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
 
-_Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211110_Deepfakes.pdf)_   
-_Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211112_Deepfakes2.pdf)_   
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERi2thP02Z9JiNtwkYRlFNUBS0F6dTyU22-lBG1l8jYHWg?e=nvPKwe)_   
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ec-tO1AJeqBHtLOHkN1lxrkBsSFxfM06GeCwUPocTeEZoQ?e=41pB3b)_   
 
 ## Week 6: AI Generated Content - Text
 Research: Vaithilingam, Zhang & Glassman [Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models](https://dl.acm.org/doi/abs/10.1145/3491101.3519665) CHI Posters 2022   
 News: Peritz [A.I. Is Making It Easier Than Ever for Students to Cheat](https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html) Slate 2022  
 
-_Slides: [Monday]()_   
-_Slides: [Wednesday]()_   
+_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUGgbdhpyjBGiv8blcvjGo8B1UTUcNYL3IYQpZ-BCcCBMg?e=gAlgqP)_   
+_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea9XovxQ3vNJta4TVY8TwfwBVjmAwUitrxoTS_x6Qd4FOg?e=VyMGHB)_   
 
 ## Week 7: Privacy
 Research: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019  
