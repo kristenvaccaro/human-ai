@@ -1,4 +1,4 @@
-# Human-AI Interaction: Fall 2022
+# Human-AI Interaction: Fall 2024
 
 This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.
 
@@ -8,29 +8,28 @@ For an overview of basic concepts related to AI and interaction design, review t
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/39763), and [Piazza](https://piazza.com/ucsd/fall2022/cse190)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/)   
 
 Classroom: Center Hall Room 105   
-Class Days and Times: Monday and Wednesday 3PM PT   
-Design Studio: Friday 3PM PT   
+Class Days and Times: Monday, Wednesday, Friday 11AM PT     
 
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
-Office Hours: Monday 4PM  
+Office Hours: Monday 2PM  
 
 TAs  
-[Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
-msmart@ucsd.edu  
-Office Hours: Thursday 2-3 PM via Zoom (Meeting ID: 912 9281 2372))     
+[TBD]()  
+TBD@ucsd.edu  
+Office Hours: TBD   
 
 ## Communication
 
 Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!
 
-#### Questions that are a good fit for Piazza:
+#### Questions that are a good fit for Discord:
 - Can someone help me understand this section of the reading?
 - What would be some examples of \[topic from the readings\]?
 - I'm stuck on the homework at \[xyz\]. Can someone suggest some ideas of what might be going wrong?
@@ -55,10 +54,11 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity  
 --- | ---  
-20% | Online Discussion  
 20% | Active Class Participation  
 30% | Programming & Design Assignments  
-30% | Final Project  
+30% | Presentation  
+10% | Quizzes  
+10% | Final Exam  
 
 Online discussion responses are due 3 PM Monday (before the start of class)
 Programming and design assignments are due Friday 5 PM
