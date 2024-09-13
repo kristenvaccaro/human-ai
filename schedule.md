@@ -86,5 +86,5 @@ _Slides: [Monday]()_
 _Slides: [Wednesday]()_   
 
 
-## Week 10: Project Presentations
+## Week 10: Student Choice
 None
