@@ -1,11 +1,9 @@
 
-title: Schedule
+# Schedule
 
+## Deadlines
 
-# Deadlines
-
-Readings: Monday 3PM  
-Discussion Questions: Monday 3PM  
+Readings: Before the start of class  
 Programming & Design Assignments: Friday 5PM    
 
 # Topics & Readings
