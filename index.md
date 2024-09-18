@@ -57,13 +57,13 @@ Percentage | Activity
 20% | Active Class Participation  
 30% | Programming & Design Assignments  
 30% | Presentation  
-10% | Quizzes  
-10% | Final Exam  
+20% | Quizzes  
 
-Online discussion responses are due 3 PM Monday (before the start of class)
 Programming and design assignments are due Friday 5 PM
 
-Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *3 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+
+Lowest Grade Dropped Policy: The lowest grade of your participation, quizzes, and programming/design assignments will be dropped. 
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
