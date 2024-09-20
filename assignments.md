@@ -1,20 +1,36 @@
-# Assignments
+# Assignments - Fall 2024
 
-There will be four forms of assessment over the quarter: online discussion (20%), in-person discussion (20%), programming&design assignments (30%), and a group project (30%). All deadlines are given in PT.
+There will be four forms of assessment over the quarter: class participation (20%), programming&design assignments (30%), a presentation or learning activity (30%), and weekly quizzes (20%). All deadlines are given in PT.
 
-## Online Discussion
+## Class Participation
 
-You will participate in the online discussion before each Monday class. These discussion questions will evaluate your understanding of -- and ability to apply the concepts from -- the reading assigned for that week's class.  
+Actively participate in class: ask and answer questions, participate in activities, and attend consistently. 
 
-Write your response to the questions/prompts by 3PM Monday, before the start of class.   
-Online discussions will be assigned on Canvas.  
-Your lowest online discussion response score will be dropped automatically.  
+## Quizzes 
+
+Quizzes will take place on PrairieLearn each week, and will be based on the overview lecture and assigned readings. Quizzes will be released Tuesday at 11AM and due Wednesday at 11AM.   
+
+PrairieLearn: [link]()  
+
+## Presentations
+
+Each student will prepare either a presentation or learning activity for one paper over the quarter. 
+
+_Guidance:_  
+Presentations should cover the core concepts of a paper, but will not be able to cover all details. Presentations may also include methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. Presentations should either use slides or include planned blackboard notes, which should be uploaded to the drive before the start of class (link below). Presentations should be 7-8 minutes in length.   
+
+Activities should be an opportunity for all students to practice applying the new concepts/ideas they have learned. This might involve students answering questions, discussing an idea, exploring data or a tool on their own laptop, paper-based activities, moving around the classroom... the sky is the limit! Activities should be interesting, fun, and engaging -- think about what would make you excited to come to class.  
+
+An example will be given by the instructor in Week 1.  
+
+All materials should be uploaded to drive before the start of class: [submission link](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=drive_link)    
+Sign up here: [signup link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8oU1nzPsuDv_25Q_7sX5WypQtb_MqvSQ/edit?usp=sharing)    
 
 ## Programming & Design Assignments
 
 You will complete eight weekly programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
 
-Programming assignments will be due at 5PM Friday, every week. No programming/design assignments for the last two weeks of the course.  
+Programming and design assignments will be due at 5PM Friday, every week. No programming and design assignments in weeks 7 or 10.  
 
 ### Links
 
@@ -83,9 +99,5 @@ Will be released Friday November 11.
 
 
 
-## Final Project
 
-The default option for the final project is a group project where you will create something cool! Friday class sessions will be design studios where you work with your group on this project and get feedback from your peers.
-
-If for logisitical or other reasons you don't wish to participate in a group, you may write an artile aimed at online readers. Details are provided [here.](https://docs.google.com/document/d/1Z_7OENTdXAKFbXCGRtpud51afzR7ye1q7WLU61AUVsY/edit?usp=sharing)  
 
