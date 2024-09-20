@@ -14,11 +14,13 @@ None
 _Slides: [Friday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EeHu9EhyvRVHlNaXgVpjXwoBaeWg2KPkSOF-Z_I_dS5gew?e=ab4gsv)_
 
 ## Week 1: Fairness and Bias
-Research: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
-News: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
+1: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
+2: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
+3: 
+4: 
 
-_Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EWAV49urp9hGi7Wl-PH2jr4BCT0B6TsNX4oUfIx1a3cMsQ?e=DGyELZ)_  
-_Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUazmH-IeKpEinA9_RwqsEgBXcmLhN3y635aMLT0O_Wubg?e=37WEUD)_  
+_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)    
+
 
 ## Week 2: Transparency and Explainability
 Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
