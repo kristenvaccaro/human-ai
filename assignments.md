@@ -10,7 +10,7 @@ Actively participate in class: ask and answer questions, participate in activiti
 
 Quizzes will take place on PrairieLearn each week, and will be based on the overview lecture and assigned readings. Quizzes will be released Sunday 11AM and due Wednesday 11AM.   
 
-PrairieLearn: [link]()  
+PrairieLearn: [PrairieLearn link]()  
 
 ## Presentations
 
