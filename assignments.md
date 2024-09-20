@@ -32,15 +32,13 @@ You will complete eight weekly programming and design assignments over the cours
 
 Programming and design assignments will be due at 5PM Friday, every week. No programming and design assignments in weeks 7 or 10.  
 
-### Links
-
 #### Homework #1
 Due Week 1 Friday 5PM  
 
 You will explore and analyze two datasets related to intern hiring. You will design a visualization to help others understand potential bias in the data.   
 Will be released Friday September 23.  
 
- [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
+[Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
 <!-- #### Homework #2
 Due Week 2 Friday 5PM
@@ -51,7 +49,7 @@ Will be released Friday September 30.
 [Materials](https://github.com/kristenvaccaro/CSE190-HW2)
 
 #### Homework #3
-Due Friday October 14, 5PM  
+Due Week 3 Friday 5PM  
 
 You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
 Will be released Friday October 7.  
@@ -59,14 +57,14 @@ Will be released Friday October 7.
 [Materials](https://github.com/kristenvaccaro/CSE190-HW3)
 
 #### Homework #4
-Due Friday October 21, 5PM   
+Due Week 4 Friday 5PM   
 
 You will design interactions to support recourse and contestability for hate speech detection on social media.     
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW4)  
 
 #### Homework #5
-Due Friday October 28, 5PM   
+Due Week 5 Friday 5PM   
 
 You will design interactions around voice and image AI-generated content.    
 Will be released Friday October 21.  
@@ -74,28 +72,32 @@ Will be released Friday October 21.
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5-2022) 
 
 #### Homework #6
-Due Friday November 4, 5PM   
+Due Week 6 Friday 5PM   
 
 You will design interactions around text AI-generated text.    
 Will be released Friday October 28.  
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
 
-#### Homework #7
-Due Thursday November 10, 5PM   
+#### No Homework Week 7
+
+#### Homework #8
+Due Week 8 Friday 5PM   
+
+You will design systems to address an ethics/social justice issue of your choice.   
+Will be released Friday November 11.  
+
+[Materials](https://github.com/kristenvaccaro/CSE190-HW8)
+
+#### Homework #9
+Due Week 9 Friday 5PM   
 
 You will consider privacy-utility tradeoffs in the design of ed tech software like Canvas.    
 Will be released Friday November 4.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW7)  
 
-#### Homework #8
-Due Friday November 18, 5PM   
 
-You will design systems to address an ethics/social justice issue of your choice.   
-Will be released Friday November 11.  
-
-[Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
 -->
 
