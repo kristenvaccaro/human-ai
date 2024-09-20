@@ -35,15 +35,15 @@ Programming and design assignments will be due at 5PM Friday, every week. No pro
 ### Links
 
 #### Homework #1
-Due Friday September 30, 5PM  
+Due Week 1 Friday 5PM  
 
 You will explore and analyze two datasets related to intern hiring. You will design a visualization to help others understand potential bias in the data.   
 Will be released Friday September 23.  
 
  [Assignment Details](https://docs.google.com/document/d/1HdgWqdM1vi-yYM_3OAsbSxvxr5zNfiBmqG0sHxqJViQ/edit?usp=sharing) and [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
-#### Homework #2
-Due Friday October 7, 5PM  
+<!-- #### Homework #2
+Due Week 2 Friday 5PM
 
 You will evaluate and improve explanations Instagram provides for its Explore tab recommendations.   
 Will be released Friday September 30.  
@@ -97,7 +97,7 @@ Will be released Friday November 11.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
-
+-->
 
 
 
