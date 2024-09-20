@@ -14,13 +14,12 @@ None
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing)_    
 
 ## Week 1: Fairness and Bias
-1: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021  
-2: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://abcnews.go.com/Business/wireStory/secret-bias-hidden-mortgage-approval-algorithms-79633917) ABC News 2021  
-3: 
-4: 
+1: Suresh & Guttag ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle"](https://arxiv.org/pdf/1901.10002.pdf) 2021   
+2: Martinez & Kirchner ["The secret bias hidden in mortgage-approval algorithms"](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms) The Markup 2021   
+3: Cheng et al. [Soliciting Stakeholders’ Fairness Notions in Child Maltreatment Predictive Systems](https://dl.acm.org/doi/abs/10.1145/3411764.3445308) CHI 2021   
+4: Yang et al. [Fair Machine Guidance to Enhance Fair Decision Making in Biased People](https://dl.acm.org/doi/full/10.1145/3613904.3642627) CHI 2024   
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
-
 
 ## Week 2: Transparency and Explainability
 Research: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
@@ -54,17 +53,20 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 
 ## Week 7: No Class
 
-## Week 8: Privacy
+## Week 8: Ethics and Social Justice  
+1: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
+2: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
+3:  
+4:   
+
+_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+
+## Week 9: Privacy/Security
 Research: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019  
 News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019    
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 9: Ethics and Social Justice  
-Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
-News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
-
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 10: Student Choice   
 TBD  
