@@ -41,28 +41,30 @@ News: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wi
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211025_RecourseContestability.pdf)_  
 _Notes: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/Contestability_brainstorming.pdf)_
 
-## Week 5: AI Generated Content - Audio & Image
+## Week 5: Generative AI
 Research: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
 News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/ERi2thP02Z9JiNtwkYRlFNUBS0F6dTyU22-lBG1l8jYHWg?e=nvPKwe)_   
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ec-tO1AJeqBHtLOHkN1lxrkBsSFxfM06GeCwUPocTeEZoQ?e=41pB3b)_   
 
-## Week 6: AI Generated Content - Text
+## Week 6: Generative AI
 Research: Vaithilingam, Zhang & Glassman [Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models](https://dl.acm.org/doi/abs/10.1145/3491101.3519665) CHI Posters 2022   
 News: Peritz [A.I. Is Making It Easier Than Ever for Students to Cheat](https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html) Slate 2022  
 
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EUGgbdhpyjBGiv8blcvjGo8B1UTUcNYL3IYQpZ-BCcCBMg?e=gAlgqP)_   
 _Slides: [Wednesday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/Ea9XovxQ3vNJta4TVY8TwfwBVjmAwUitrxoTS_x6Qd4FOg?e=VyMGHB)_   
 
-## Week 7: Privacy
+## Week 7: No Class
+
+## Week 8: Privacy
 Research: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019  
 News: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019    
 
 _Slides: [Monday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211101_Privacy.pdf)_  
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211103_Privacy_2.pdf)_
 
-## Week 8: Ethics and Social Justice  
+## Week 9: Ethics and Social Justice  
 Research: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
 
@@ -70,21 +72,5 @@ _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_uc
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211110_Ethics_2.pdf)_   
 
 
-
-
-<!-- Research: Konstan & Riedl ["Recommender systems: from algorithms to user experience"](http://files.grouplens.org/papers /algorithmstouserexperience.pdf) User Modeling and User-Adapted Interaction 2012 -->  
-<!-- Press: Chaslot ["The Toxic Potential of YouTube’s Feedback Loop"](https://www.wired.com/story/the-toxic-potential-of-youtubes-feedback-loop/) Wired 2019 -->
-
-<!-- _Slides: [Monday & Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211011_Recommendations.pdf)_ --> 
-
-## Week 9: AI & Accessibility
-Research: Morris [AI and Accessibility](https://dl.acm.org/doi/10.1145/3356727)  
-News: Tugend [How Robots Can Assist Students With Disabilities](https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html)  
-
-
-_Slides: [Monday]()_   
-_Slides: [Wednesday]()_   
-
-
-## Week 10: Student Choice
-None
+## Week 10: Student Choice   
+TBD   
