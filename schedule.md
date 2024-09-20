@@ -71,6 +71,5 @@ News: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.c
 _Slides: [Monday](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/kvaccaro_ucsd_edu/EX5ivYztPkJNg3eaGygGXrEBFM8O7hLGAndX1HcKZL1GZw?e=88EYFo)_   
 _Slides: [Wednesday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20211110_Ethics_2.pdf)_   
 
-
 ## Week 10: Student Choice   
 TBD   
