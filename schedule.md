@@ -2,6 +2,7 @@
 # Schedule
 
 Finish readings before the start of class  
+Sign up to present here: [signups link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8oU1nzPsuDv_25Q_7sX5WypQtb_MqvSQ/edit?usp=sharing)
 
 # Topics & Readings
 
