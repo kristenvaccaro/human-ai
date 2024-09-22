@@ -79,7 +79,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 1: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019   
 2: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019     
 3: Asthana et al. ["'I know even if you don’t tell me': Understanding Users’ Privacy Preferences Regarding AI-based Inferences of Sensitive Information for Personalization"](https://dl.acm.org/doi/full/10.1145/3613904.3642180) CHI 2024
-4: Lee et al. ["Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks"] CHI 2024    
+4: Lee et al. ["Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks"](https://dl.acm.org/doi/full/10.1145/3613904.3642116) CHI 2024    
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
