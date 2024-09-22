@@ -6,7 +6,7 @@ Finish readings before the start of class
 # Topics & Readings
 
 ## Week 0: Introduction
-None  
+1: _Optional_ Capel & Brereton [What is Human-Centered about Human-Centered AI? A Map of the Research Landscape](https://dl.acm.org/doi/full/10.1145/3544548.3580959) CHI 2023    
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing)_    
 
@@ -56,7 +56,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 6: "The Algorithm"
-1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023
+1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
 2: DeVito, Gergle & Bernholtz ["'Algorithms ruin everything': #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media"](https://dl.acm.org/doi/abs/10.1145/3025453.3025659) CHI 2017    
 3: Steen, Yurchenko & Klug ["You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/full/10.1177/20563051231194586) Social Media + Society 2023    
 4: Shen et al. [Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors](https://dl.acm.org/doi/abs/10.1145/3479577) CSCW 2021   
@@ -69,7 +69,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 ## Week 8: Ethics and Social Justice  
 1: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 2: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021  
-3:  
+3: Capel & Brereton ["Don’t ask if artificial intelligence is good or fair, ask how it shifts power"](https://www.nature.com/articles/d41586-020-02003-2) Nature 2020       
 4:   
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
