@@ -22,7 +22,11 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 ## Week 2: Transparency and Explainability
 
 1: Knight ["The Dark Secret at the Heart of AI"](https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/) MIT Technology Review 2017  
-1: Liao, Gruen & Miller ["Questioning the AI: Informing Design Practices for Explainable AI User Experiences"](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/Questioning_the_AI.pdf) CHI 2020  
+2: Poursabzi-Sangdeh et al. [Manipulating and Measuring Model Interpretability](https://dl.acm.org/doi/10.1145/3411764.3445315) CHI 2021   
+3: Ehsan et al. ["The Who in XAI: How AI Background Shapes Perceptions of AI
+Explanations"](https://dl.acm.org/doi/full/10.1145/3613904.3642474) CHI 2024   
+4: Kim et al. [""Help Me Help the AI": Understanding How Explainability Can
+Support Human-AI Interaction"](https://dl.acm.org/doi/full/10.1145/3544548.3581001) CHI 2023  
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_     
 
