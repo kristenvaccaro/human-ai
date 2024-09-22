@@ -30,7 +30,7 @@ Support Human-AI Interaction"](https://dl.acm.org/doi/full/10.1145/3544548.35810
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_     
 
-## Week 3: Designing for Failure: Confidence and Errors
+## Week 3: Setting Expectations
 Research: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019  
 News: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
 
