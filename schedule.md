@@ -1,10 +1,7 @@
 
 # Schedule
 
-## Deadlines
-
-Readings: Before the start of class  
-Programming & Design Assignments: Friday 5PM    
+Finish readings before the start of class  
 
 # Topics & Readings
 
@@ -47,9 +44,9 @@ News: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.c
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 6: Generative AI
-Research: Vaithilingam, Zhang & Glassman [Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models](https://dl.acm.org/doi/abs/10.1145/3491101.3519665) CHI Posters 2022   
-News: Peritz [A.I. Is Making It Easier Than Ever for Students to Cheat](https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html) Slate 2022  
+## Week 6: "The Algorithm"
+
+
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
 
