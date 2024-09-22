@@ -47,14 +47,6 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 5: Generative AI
-1: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
-2: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
-3: Weisz et al. ["Design Principles for Generative AI Applications"](https://dl.acm.org/doi/full/10.1145/3613904.3642466) CHI 2024    
-4: Wadinambiarachchi et al. ["The Effects of Generative AI on Design Fixation and Divergent Thinking"](https://dl.acm.org/doi/full/10.1145/3613904.3642919) CHI 2024 
-
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
-
 ## Week 6: "The Algorithm"
 1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
 2: DeVito, Gergle & Bernholtz ["'Algorithms ruin everything': #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media"](https://dl.acm.org/doi/abs/10.1145/3025453.3025659) CHI 2017    
@@ -63,6 +55,15 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 
 
 _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
+
+## Week 5: Generative AI
+1: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
+2: Simonite [These Deepfake Voices Can Help Trans Gamers](https://www.wired.com/story/deepfake-voices-help-trans-gamers/) Wired 2021
+3: Weisz et al. ["Design Principles for Generative AI Applications"](https://dl.acm.org/doi/full/10.1145/3613904.3642466) CHI 2024    
+4: Wadinambiarachchi et al. ["The Effects of Generative AI on Design Fixation and Divergent Thinking"](https://dl.acm.org/doi/full/10.1145/3613904.3642919) CHI 2024 
+
+_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+
 
 ## Week 7: No Class
 
