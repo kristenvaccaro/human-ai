@@ -17,13 +17,12 @@ Class Days and Times: Monday, Wednesday, Friday 11AM PT
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
-Office: 3226 CSE  
-Office Hours: Monday 2PM  
+Office: CSE 3226  
+Office Hours: Monday 12-1PM Outside Center Hall 105 
 
 TAs  
-[TBD]()  
-TBD@ucsd.edu  
-Office Hours: TBD   
+Alice Chu  
+quchu@ucsd.edu         
 
 ## Communication
 
@@ -61,7 +60,7 @@ Percentage | Activity
 
 Programming and design assignments are due Friday 5 PM
 
-Late Policy: You will receive *3 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+Late Policy: You will receive *5 free late days* that can be used for programming and design assignments over the course of the quarter. You do not need to contact us in advance to use those late days. Once you have used your 5 days for the quarter, you receive a 10% penalty for each day an assignment is late.
 
 Lowest Grade Dropped Policy: The lowest grade of your participation, quizzes, and programming/design assignments will be dropped. 
 
