@@ -9,7 +9,7 @@ Sign up to present here: [signups link](https://docs.google.com/spreadsheets/d/1
 ## Week 0: Introduction
 1: _Optional_ Capel & Brereton [What is Human-Centered about Human-Centered AI? A Map of the Research Landscape](https://dl.acm.org/doi/full/10.1145/3544548.3580959) CHI 2023    
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing)_    
 
 ## Week 1: Fairness and Bias
 
@@ -18,7 +18,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 3: Cheng et al. [Soliciting Stakeholders’ Fairness Notions in Child Maltreatment Predictive Systems](https://dl.acm.org/doi/abs/10.1145/3411764.3445308) CHI 2021   
 4: Yang et al. [Fair Machine Guidance to Enhance Fair Decision Making in Biased People](https://dl.acm.org/doi/full/10.1145/3613904.3642627) CHI 2024   
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 2: Transparency and Explainability
 
@@ -29,7 +29,7 @@ Explanations"](https://dl.acm.org/doi/full/10.1145/3613904.3642474) CHI 2024
 4: Kim et al. [""Help Me Help the AI": Understanding How Explainability Can
 Support Human-AI Interaction"](https://dl.acm.org/doi/full/10.1145/3544548.3581001) CHI 2023  
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_     
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_     
 
 ## Week 3: Setting Expectations
 1: Zhang et al. ["'An Ideal Human': Expectations of AI Teammates in Human-AI Teaming"](https://dl.acm.org/doi/10.1145/3432945) CSCW 2021   
@@ -38,7 +38,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 4: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
 
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 4: Designing for Failure: Recourse and Contestability  
 1: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wired.com/story/what-does-a-fair-algorithm-look-like/) Wired 2018   
@@ -46,7 +46,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 2: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
 3: Kaminski & Urban ["The Right to Contest AI"](https://www.jstor.org/stable/27083420) Columbia Law Review 2021   
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 5: "The Algorithm"
 1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
@@ -55,7 +55,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 4: Shen et al. [Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors](https://dl.acm.org/doi/abs/10.1145/3479577) CSCW 2021   
 
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
 
 ## Week 6: Generative AI
 1: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
@@ -63,7 +63,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 3: Weisz et al. ["Design Principles for Generative AI Applications"](https://dl.acm.org/doi/full/10.1145/3613904.3642466) CHI 2024    
 4: Wadinambiarachchi et al. ["The Effects of Generative AI on Design Fixation and Divergent Thinking"](https://dl.acm.org/doi/full/10.1145/3613904.3642919) CHI 2024 
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 
 ## Week 7: No Class
@@ -74,7 +74,7 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 3: Capel & Brereton ["Don’t ask if artificial intelligence is good or fair, ask how it shifts power"](https://www.nature.com/articles/d41586-020-02003-2) Nature 2020        
 4: Estrada [Human supremacy as posthuman risk](https://digitalcommons.odu.edu/sociotechnicalcritique/vol1/iss1/5/) The Journal of Sociotechnical Critique 2020    
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 9: Privacy/Security
 1: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019   
@@ -82,10 +82,10 @@ _Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t
 3: Asthana et al. ["'I know even if you don’t tell me': Understanding Users’ Privacy Preferences Regarding AI-based Inferences of Sensitive Information for Personalization"](https://dl.acm.org/doi/full/10.1145/3613904.3642180) CHI 2024     
 4: Lee et al. ["Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks"](https://dl.acm.org/doi/full/10.1145/3613904.3642116) CHI 2024    
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 
 ## Week 10: Student Choice   
 TBD  
 
-_Slides: [Vaccaro Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
