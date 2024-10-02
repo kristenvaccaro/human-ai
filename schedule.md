@@ -86,6 +86,9 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 
 ## Week 10: Student Choice   
-TBD  
+1: Ben Kirman et al. ["CHI and the Future Robot Enslavement of Humankind; A Retrospective"](https://dl.acm.org/doi/abs/10.1145/2468356.2468740) CHI Extended Abstracts 2013    
+2: Brown & Greene ["The Future of Work is No Work: A Call to Action for Designers in the Abolition of Work"](https://dl.acm.org/doi/abs/10.1145/3491101.3516385) CHI Extended Abstracts 2022      
+3:       
+4:       
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
