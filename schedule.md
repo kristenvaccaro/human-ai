@@ -87,7 +87,8 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 ## Week 10: Student Choice   
 1: Rotman ["People are worried that AI will take everyone’s jobs. We’ve been here before."](https://www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/) MIT Technology Review 2024        
-2:       
+2: 
+<!--- Berger ["SAG-AFTRA’s AI Deal: A $5 Billion Gamble On The Future Of Voice Acting"](https://www.forbes.com/sites/virginieberger/2024/08/21/sag-aftras-ai-deal-a-5-billion-gamble-on-the-future-of-voice-acting/) Forbes 2024 -->       
 3: Ben Kirman et al. ["CHI and the Future Robot Enslavement of Humankind; A Retrospective"](https://dl.acm.org/doi/abs/10.1145/2468356.2468740) CHI Extended Abstracts 2013    
 4: Brown & Greene ["The Future of Work is No Work: A Call to Action for Designers in the Abolition of Work"](https://dl.acm.org/doi/abs/10.1145/3491101.3516385) CHI Extended Abstracts 2022      
 
