@@ -8,7 +8,7 @@ Actively participate in class: ask and answer questions, participate in activiti
 
 ## Quizzes 
 
-Quizzes will take place on PrairieLearn each week, and will be based on the overview lecture and assigned readings. Quizzes will be released Sunday 11AM and due Wednesday 11AM.   
+Quizzes will take place on PrairieLearn each week, and will be based on the overview lecture and assigned readings. Quizzes will be released Monday 8AM and due Friday 11:59PM.   
 
 PrairieLearn: [PrairieLearn link]()  
 
