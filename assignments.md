@@ -40,7 +40,7 @@ Will be released Friday September 23.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
-<!-- #### Homework #2
+#### Homework #2
 Due Week 2 Friday 5PM
 
 You will evaluate and improve explanations Instagram provides for its Explore tab recommendations.   
@@ -48,6 +48,7 @@ Will be released Friday September 30.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW2)
 
+<!--
 #### Homework #3
 Due Week 3 Friday 5PM  
 
