@@ -23,7 +23,7 @@ Activities should be an opportunity for all students to practice applying the ne
 
 An example will be given by the instructor in Week 1.  
 
-All materials should be uploaded to drive before the start of class: [submission link](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=drive_link)    
+All materials should be uploaded to drive before the start of class. Please use this naming convention for your files: Week#_Paper#_YourLastName (e.g., Week1_Paper1_Vaccaro) [submission link](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=drive_link)    
 Sign up here: [signup link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8oU1nzPsuDv_25Q_7sX5WypQtb_MqvSQ/edit?usp=sharing)    
 
 ## Programming & Design Assignments
