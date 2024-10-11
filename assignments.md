@@ -48,7 +48,7 @@ Will be released Friday September 30.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW2)
 
-<!--
+
 #### Homework #3
 Due Week 3 Friday 5PM  
 
@@ -57,6 +57,7 @@ Will be released Friday October 7.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW3)
 
+<!--
 #### Homework #4
 Due Week 4 Friday 5PM   
 
