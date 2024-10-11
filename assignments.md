@@ -52,7 +52,7 @@ Will be released Friday September 30.
 #### Homework #3
 Due Week 3 Friday 5PM  
 
-You will design a bus app that can manage users' expectations about the bus arrival time predictions.   
+You will explore data on bus arrival time predictions, and then design a bus app that can manage users' expectations about bus arrival time predictions.   
 Will be released Friday October 7.  
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW3)
