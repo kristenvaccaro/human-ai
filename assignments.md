@@ -58,10 +58,14 @@ You will explore data on bus arrival time predictions, and then design a bus app
 #### Homework #4
 No assignment due
 
+#### Homework #5
+Due Week 3 Friday 5PM   
+You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.
+[Materials](https://github.com/kristenvaccaro/CSE190-HW5) 
+
+
 <!--
-
 You will design interactions to support recourse and contestability for hate speech detection on social media.     
-
 [Materials](https://github.com/kristenvaccaro/CSE190-HW4)  
 
 #### Homework #5
