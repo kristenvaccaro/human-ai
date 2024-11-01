@@ -64,6 +64,12 @@ Due Week 5 Friday 5PM
 You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5) 
 
+#### Homework #6
+Due Week 6 Friday 5PM   
+
+You will use AI generated content to cheat (and help others cheat) on a practice final exam.   
+[Materials](https://github.com/kristenvaccaro/CSE190-HW6)   
+
 
 <!--
 You will design interactions to support recourse and contestability for hate speech detection on social media.     
