@@ -26,6 +26,8 @@ An example will be given by the instructor in Week 1.
 All materials should be uploaded to drive before the start of class. Please use this naming convention for your files: Week#_Paper#_YourLastName (e.g., Week1_Paper1_Vaccaro) [submission link](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=drive_link)    
 Sign up here: [signup link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8oU1nzPsuDv_25Q_7sX5WypQtb_MqvSQ/edit?usp=sharing)    
 
+Update: All students who are not satisfied with the grade they earned will be allowed to make a recording and submit that recording on Canvas and I will average the two grades (the original and the recording). If you led an activity, you can also do the same, although I anticipate it will be more difficult to recruit your peers to participate. Please submit any recordings by 11:59PM Monday of Week 10. 
+
 ## Programming & Design Assignments
 
 You will complete eight weekly programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
