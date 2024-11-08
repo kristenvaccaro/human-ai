@@ -98,8 +98,7 @@ Will be released Friday October 28.
 #### Homework #8
 Due Week 8 Friday 5PM   
 
-You will design systems to address an ethics/social justice issue of your choice.   
-Will be released Friday November 11.  
+You will design systems to address an ethics/social justice issue of your choice.     
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
