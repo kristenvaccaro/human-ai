@@ -91,7 +91,7 @@ Due Week 6 Friday 5PM
 You will design interactions around text AI-generated text.    
 Will be released Friday October 28.  
 
-[Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
+[Materials](https://github.com/kristenvaccaro/CSE190-HW6)  -->
 
 #### No Homework Week 7
 
@@ -103,6 +103,7 @@ Will be released Friday November 11.
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
+<!--
 #### Homework #9
 Due Week 9 Friday 5PM   
 
