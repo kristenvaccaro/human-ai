@@ -63,7 +63,7 @@ No assignment due
 #### Homework #5
 Due Week 5 Friday 5PM   
 
-You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.
+You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.    
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5) 
 
 #### Homework #6
