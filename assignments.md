@@ -1,23 +1,17 @@
-# Assignments - Fall 2024
+# Assignments - Fall 2025
 
-There will be four forms of assessment over the quarter: class participation (20%), programming&design assignments (30%), a presentation or learning activity (30%), and weekly quizzes (20%). All deadlines are given in PT.
+There will be four forms of assessment over the quarter: class participation (20%), programming&design assignments (30%), a presentation or learning activity (30%), and a final exam (20%). All deadlines are given in PT.
 
 ## Class Participation
 
 Actively participate in class: ask and answer questions, participate in activities, and attend consistently. 
-
-## Quizzes 
-
-Quizzes will take place on PrairieLearn each week, and will be based on the overview lecture and assigned readings. Quizzes will be released Monday 8AM and due Friday 5PM.   
-
-PrairieLearn: [PrairieLearn link]()  
 
 ## Presentations
 
 Each student will prepare either a presentation or learning activity for one paper over the quarter. 
 
 _Guidance:_  
-Presentations should cover the core concepts of a paper, but will not be able to cover all details. Presentations may also include methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. Presentations should either use slides or include planned blackboard notes, which should be uploaded to the drive before the start of class (link below). Presentations should be 7-8 minutes in length.   
+Presentations should cover the core concepts of a paper, but will not be able to cover all details. Presentations may also include brief descriptions of methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. Presentations should be modeled on a short video (e.g., TikTok, YouTube Shorts, Instagram Reels) that would interest someone in reading the paper to learn more. Presentations should be no longer than 3 minutes. An excellent example from last semester was made by Verania Salcido: https://drive.google.com/file/d/1pSG5UJqx7uG_cfotibJ1846_kM98h8vU/view?usp=drive_link.   
 
 Activities should be an opportunity for all students to practice applying the new concepts/ideas they have learned. This might involve students answering questions, discussing an idea, exploring data or a tool on their own laptop, paper-based activities, moving around the classroom... the sky is the limit! Activities should be interesting, fun, and engaging -- think about what would make you excited to come to class.  
 
