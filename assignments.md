@@ -1,6 +1,6 @@
 # Assignments - Fall 2025
 
-There will be four forms of assessment over the quarter: class participation (20%), programming&design assignments (30%), a presentation or learning activity (30%), and a final exam (20%). All deadlines are given in PT.
+There will be four forms of assessment over the quarter: class participation (20%), programming&design assignments (30%), a presentation with a video summary and learning activity (30%), and a final exam (20%). All deadlines are given in PT.
 
 ## Class Participation
 
