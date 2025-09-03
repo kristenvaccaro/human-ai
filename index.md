@@ -56,7 +56,7 @@ Percentage | Activity
 20% | Active Class Participation  
 30% | Programming & Design Assignments  
 30% | Presentation  
-20% | Quizzes  
+20% | Final Exam   
 
 Programming and design assignments are due Friday 5 PM
 
