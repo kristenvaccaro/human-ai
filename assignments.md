@@ -4,7 +4,7 @@ There will be four forms of assessment over the quarter: class participation (20
 
 ## Class Participation
 
-Actively participate in class: ask and answer questions, participate in activities, and attend consistently. 
+Actively participate in class: ask and answer questions, participate in activities, and attend consistently. You should expect to speak in class at least once per week for full credit. 
 
 ## Presentations
 
