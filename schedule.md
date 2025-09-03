@@ -40,22 +40,15 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 4: Designing for Failure: Recourse and Contestability  
+## Week 4: No Class
+
+## Week 5: Designing for Failure: Recourse and Contestability  
 1: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wired.com/story/what-does-a-fair-algorithm-look-like/) Wired 2018   
 2: Wang et al. ["GAM Coach: Towards Interactive and User-centered Algorithmic Recourse"](https://dl.acm.org/doi/full/10.1145/3544548.3580816) CHI 2023   
 2: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
 3: Kaminski & Urban ["The Right to Contest AI"](https://www.jstor.org/stable/27083420) Columbia Law Review 2021   
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
-
-## Week 5: "The Algorithm"
-1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
-2: DeVito, Gergle & Bernholtz ["'Algorithms ruin everything': #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media"](https://dl.acm.org/doi/abs/10.1145/3025453.3025659) CHI 2017    
-3: Steen, Yurchenko & Klug ["You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/full/10.1177/20563051231194586) Social Media + Society 2023    
-4: Shen et al. [Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors](https://dl.acm.org/doi/abs/10.1145/3479577) CSCW 2021   
-
-
-_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
 
 ## Week 6: Generative AI
 1: **ONLY Sections 3 & 4** of Cetinic & She ["Understanding and Creating Art with AI: Review and Outlook"](https://dl.acm.org/doi/full/10.1145/3475799) ACM Transactions on Multimedia 2022   
@@ -66,7 +59,14 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 
-## Week 7: No Class
+## Week 7: "The Algorithm"
+1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
+2: DeVito, Gergle & Bernholtz ["'Algorithms ruin everything': #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media"](https://dl.acm.org/doi/abs/10.1145/3025453.3025659) CHI 2017    
+3: Steen, Yurchenko & Klug ["You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/full/10.1177/20563051231194586) Social Media + Society 2023    
+4: Shen et al. [Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors](https://dl.acm.org/doi/abs/10.1145/3479577) CSCW 2021   
+
+
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
 
 ## Week 8: Ethics and Social Justice  
 1: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
