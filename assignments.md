@@ -8,19 +8,19 @@ Actively participate in class: ask and answer questions, participate in activiti
 
 ## Presentations
 
-Each student will prepare either a presentation or learning activity for one paper over the quarter. 
+Each student will prepare either a presentation and learning activity for one paper over the quarter. 
 
 _Guidance:_  
-Presentations should cover the core concepts of a paper, but will not be able to cover all details. Presentations may also include brief descriptions of methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. Presentations should be modeled on a short video (e.g., TikTok, YouTube Shorts, Instagram Reels) that would interest someone in reading the paper to learn more. Presentations should be no longer than 3 minutes. An excellent example from last semester was made by Verania Salcido: https://drive.google.com/file/d/1pSG5UJqx7uG_cfotibJ1846_kM98h8vU/view?usp=drive_link.   
+Presentations should cover one or two core concepts from a paper, but will not be able to cover all details. Presentations may also include brief descriptions of methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. Presentations should be modeled on a short-form video (e.g., TikTok, YouTube Shorts, Instagram Reels) that would interest someone in reading the paper to learn more. Presentations should be no longer than 3 minutes. An excellent example from last semester was made by Verania Salcido: https://drive.google.com/file/d/1pSG5UJqx7uG_cfotibJ1846_kM98h8vU/view?usp=drive_link.   
 
-Activities should be an opportunity for all students to practice applying the new concepts/ideas they have learned. This might involve students answering questions, discussing an idea, exploring data or a tool on their own laptop, paper-based activities, moving around the classroom... the sky is the limit! Activities should be interesting, fun, and engaging -- think about what would make you excited to come to class.  
+Activities should be an opportunity for all students to practice applying the new concepts/ideas they have learned. This might involve students answering questions, discussing an idea, exploring data or a tool on their own laptop, paper-based activities, moving around the classroom... the sky is the limit! For example, one student last year designed a Jeopardy-style game to review some key ideas and applications of the paper, followed by a more open-ended discussion. Activities should be interesting, fun, and engaging -- think about what would make you excited to come to class.  
 
 An example will be given by the instructor in Week 1.  
 
 All materials should be uploaded to drive before the start of class. Please use this naming convention for your files: Week#_Paper#_YourLastName (e.g., Week1_Paper1_Vaccaro) [submission link](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=drive_link)    
 Sign up here: [signup link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8oU1nzPsuDv_25Q_7sX5WypQtb_MqvSQ/edit?usp=sharing)    
 
-Update: All students who are not satisfied with the grade they earned will be allowed to make a recording and submit that recording on Canvas and I will average the two grades (the original and the recording). If you led an activity, you can also do the same, although I anticipate it will be more difficult to recruit your peers to participate. Please submit any recordings by 11:59PM Monday of Week 10. 
+<!--Update: All students who are not satisfied with the grade they earned will be allowed to make a recording and submit that recording on Canvas and I will average the two grades (the original and the recording). If you led an activity, you can also do the same, although I anticipate it will be more difficult to recruit your peers to participate. Please submit any recordings by 11:59PM Monday of Week 10. -->
 
 ## Programming & Design Assignments
 
