@@ -26,7 +26,7 @@ Sign up here: [signup link](https://docs.google.com/spreadsheets/d/1lXe3n_sXpLf8
 
 You will complete eight weekly programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
 
-Programming and design assignments will be due at 5PM Friday, every week. No programming and design assignments in weeks 7 or 10.  
+Programming and design assignments will be due at 5PM Friday, every week. No programming and design assignments in weeks 4 or 10.  
 
 #### Homework #1
 Due Week 1 Friday 5PM  
