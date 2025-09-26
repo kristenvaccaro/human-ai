@@ -1,4 +1,4 @@
-# Human-AI Interaction: Fall 2025
+# Human-AI Interaction: Fall 2024
 
 This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.
 
@@ -8,10 +8,10 @@ For an overview of basic concepts related to AI and interaction design, review t
 
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/courses/68442), and [Discord](https://discord.gg/xZSdW9Tbq6)     
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai), [Canvas](https://canvas.ucsd.edu/), [PrairieLearn](https://us.prairielearn.com/pl/course_instance/165783), and [Discord](https://discord.gg/xZSdW9Tbq6)     
 
 Classroom: Center Hall Room 105   
-Class Days and Times: Monday, Wednesday, Friday 3PM PST     
+Class Days and Times: Monday, Wednesday, Friday 11AM PT     
 
 ## Instructors
 
@@ -20,10 +20,9 @@ kv@ucsd.edu -- Please read the communication guidelines below before emailing!
 Office: CSE 3226  
 Office Hours: Monday 12-1PM Outside Center Hall 105 
 
-TA  
-Uliyaah Dionisio  
-udionisio@ucsd.edu         
-Office Hours: Thursday 1-2PM CSE B260A
+TAs  
+Alice Chu  
+quchu@ucsd.edu         
 
 ## Communication
 
