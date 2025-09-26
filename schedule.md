@@ -46,8 +46,8 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 <!-- 1: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wired.com/story/what-does-a-fair-algorithm-look-like/) Wired 2018 2: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021 -->
 1: Wang et al. ["GAM Coach: Towards Interactive and User-centered Algorithmic Recourse"](https://dl.acm.org/doi/full/10.1145/3544548.3580816) CHI 2023     
 2: Kaminski & Urban ["The Right to Contest AI"](https://www.jstor.org/stable/27083420) Columbia Law Review 2021   
-3: Anand [We think hallucinations make AI different from us. What if they make us the same? ](https://www.bostonglobe.com/2025/09/24/magazine/artificial-intelligence-hallucinations-in-ai/) Boston Globe 2025
-4: 
+3: Anand [We think hallucinations make AI different from us. What if they make us the same? ](https://www.bostonglobe.com/2025/09/24/magazine/artificial-intelligence-hallucinations-in-ai/) Boston Globe 2025     
+4: Massenon, Gambo, Khan, Agbonkhese, & Alwadain [”My AI is Lying to Me”: User-reported LLM hallucinations in AI mobile apps reviews](https://www.nature.com/articles/s41598-025-15416-8.pdf) Nature 2025
 
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
