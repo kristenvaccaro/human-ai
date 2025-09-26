@@ -58,8 +58,17 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
+## Week 7: Generative AI
+1: 
+2:
+3: 
+4:
 
-## Week 7: "The Algorithm"
+_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+
+
+
+## Week 8: "The Algorithm"
 1: Schechtman ["Life in the algorithm"](https://yalereview.org/article/anna-shechtman-algorithm-kyle-chayka-taylor-lorenz) Yale Review 2023   
 2: DeVito, Gergle & Bernholtz ["'Algorithms ruin everything': #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media"](https://dl.acm.org/doi/abs/10.1145/3025453.3025659) CHI 2017    
 3: Steen, Yurchenko & Klug ["You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/full/10.1177/20563051231194586) Social Media + Society 2023    
@@ -68,11 +77,11 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_      
 
-## Week 8: Ethics and Social Justice  
+<!-- ## Week 8: Ethics and Social Justice  
 1: Abebe, Barocas, Kleinberg, Levy, Raghavan & Robinson ["Roles for Computing in Social Change"](https://arxiv.org/pdf/1912.04883.pdf) FAccT 2020   
 2: Matthew Hutson ["Who Should Stop Unethical A.I.?"](https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai) The New Yorker 2021   
 3: Capel & Brereton ["Don’t ask if artificial intelligence is good or fair, ask how it shifts power"](https://www.nature.com/articles/d41586-020-02003-2) Nature 2020        
-4: Widder et al. [It’s about power: What ethical concerns do software engineers have, and what do they (feel they can) do about them?](https://dl.acm.org/doi/abs/10.1145/3593013.3594012) FAccT 2023
+4: Widder et al. [It’s about power: What ethical concerns do software engineers have, and what do they (feel they can) do about them?](https://dl.acm.org/doi/abs/10.1145/3593013.3594012) FAccT 2023 -->
 <!--4: Estrada [Human supremacy as posthuman risk](https://digitalcommons.odu.edu/sociotechnicalcritique/vol1/iss1/5/) The Journal of Sociotechnical Critique 2020    -->
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
@@ -80,7 +89,8 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 ## Week 9: Privacy/Security
 1: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019   
 2: Shou ["The Next Big Privacy Hurdle? Teaching AI to Forget"](https://www.wired.com/story/the-next-big-privacy-hurdle-teaching-ai-to-forget/) Wired 2019      
-3: Asthana et al. ["'I know even if you don’t tell me': Understanding Users’ Privacy Preferences Regarding AI-based Inferences of Sensitive Information for Personalization"](https://dl.acm.org/doi/full/10.1145/3613904.3642180) CHI 2024     
+3: Zhang, Jia, Lee, Yao, Das, Lerner, Wang, & Li ["It’s a Fair Game", or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents](https://dl.acm.org/doi/pdf/10.1145/3613904.3642385) CHI 2024
+<!-- 3: Asthana et al. ["'I know even if you don’t tell me': Understanding Users’ Privacy Preferences Regarding AI-based Inferences of Sensitive Information for Personalization"](https://dl.acm.org/doi/full/10.1145/3613904.3642180) CHI 2024 -->    
 4: Lee et al. ["Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks"](https://dl.acm.org/doi/full/10.1145/3613904.3642116) CHI 2024    
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
