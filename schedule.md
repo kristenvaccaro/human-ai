@@ -61,11 +61,11 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 7: Generative AI - Usability 
+## Week 7: Generative AI - Usability Issues   
 1: Zamfirescu-Pereira, Wong, Hartmann, & Yang [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/pdf/10.1145/3544548.3581388) CHI 2023    
-2: Schulhoff et al. [The Prompt Report](https://arxiv.org/pdf/2406.06608) Arxiv 2025
-3: 
-4:
+2: Schulhoff et al. [The Prompt Report](https://arxiv.org/pdf/2406.06608) Arxiv 2025    
+3: Clark et al. [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents](https://dl.acm.org/doi/pdf/10.1145/3290605.3300705) CHI 2019    
+4: Hojo et al. [GenerativeGUI: Dynamic GUI Generation Leveraging LLMs for Enhanced User Interaction on Chat Interfaces](https://dl.acm.org/doi/pdf/10.1145/3706599.3719743) CHI Extended Abstracts 2025      
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
