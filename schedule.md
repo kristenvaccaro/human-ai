@@ -63,7 +63,7 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 ## Week 7: Generative AI - Usability 
 1: Zamfirescu-Pereira, Wong, Hartmann, & Yang [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/pdf/10.1145/3544548.3581388) CHI 2023    
-2: 
+2: Schulhoff et al. [The Prompt Report](https://arxiv.org/pdf/2406.06608) Arxiv 2025
 3: 
 4:
 
