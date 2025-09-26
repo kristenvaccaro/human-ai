@@ -61,7 +61,7 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
-## Week 7: Generative AI - Usability Issues   
+## Week 7: Generative AI - Challenges of Chat   
 1: Zamfirescu-Pereira, Wong, Hartmann, & Yang [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/pdf/10.1145/3544548.3581388) CHI 2023    
 2: Schulhoff et al. [The Prompt Report](https://arxiv.org/pdf/2406.06608) Arxiv 2025    
 3: Clark et al. [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents](https://dl.acm.org/doi/pdf/10.1145/3290605.3300705) CHI 2019    
