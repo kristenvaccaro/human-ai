@@ -42,7 +42,7 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 
 ## Week 4: No Class
 
-## Week 5: Designing for Failure: Recourse and Contestability  
+## Week 5: Designing for Failure: Recourse, Contestability, and Hallucinations  
 1: Matsakis ["What Does a Fair Algorithm Actually Look Like?"](https://www.wired.com/story/what-does-a-fair-algorithm-look-like/) Wired 2018   
 2: Wang et al. ["GAM Coach: Towards Interactive and User-centered Algorithmic Recourse"](https://dl.acm.org/doi/full/10.1145/3544548.3580816) CHI 2023   
 2: Lyons, Velloso & Miller ["Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions"](https://dl.acm.org/doi/abs/10.1145/3449180) CSCW 2021   
@@ -59,7 +59,7 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 ## Week 7: Generative AI
-1: 
+1: Zamfirescu-Pereira, Wong, Hartmann, & Yang [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/pdf/10.1145/3544548.3581388) CHI 2023    
 2:
 3: 
 4:
