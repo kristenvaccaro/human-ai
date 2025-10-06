@@ -60,7 +60,7 @@ Percentage | Activity
 30% | Presentation  
 20% | Final Exam   
 
-Programming and design assignments are due Friday 5 PM
+Programming and design assignments are due Friday 11:59 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments over the course of the quarter. You do not need to contact us in advance to use those late days. Once you have used your 5 days for the quarter, you receive a 10% penalty for each day an assignment is late.
 
