@@ -35,7 +35,8 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 1: Zhang et al. ["'An Ideal Human': Expectations of AI Teammates in Human-AI Teaming"](https://dl.acm.org/doi/10.1145/3432945) CSCW 2021   
 2: Kloft et al. ["AI enhances our performance, I have no doubt this one will do the same": The Placebo Efect Is Robust to Negative Descriptions of AI](https://dl.acm.org/doi/full/10.1145/3613904.3642633) CHI 2024   
 3: Kocielnik, Amershi & Bennett ["Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems"](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) CHI 2019   
-4: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014
+4: Li et al. [Showing LLM-Generated Code Selectively Based on Confidence of LLMs](https://arxiv.org/pdf/2410.03234?)
+<!-- 4: Badger ["How to Make Waiting for the Bus Feel Much, Much Shorter"](https://www.bloomberg.com/news/articles/2014-01-22/how-to-make-waiting-for-the-bus-feel-much-much-shorter) Bloomberg CityLab 2014 -->
 
 
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
