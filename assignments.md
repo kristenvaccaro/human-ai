@@ -8,7 +8,7 @@ Actively participate in class: ask and answer questions, participate in activiti
 
 ## Presentations
 
-Each student will prepare either a presentation and learning activity for one paper over the quarter. 
+Each student will prepare a presentation and learning activity for one paper over the quarter. 
 
 _Guidance:_  
 Submissions should be modeled on a short-form video (e.g., TikTok, YouTube Shorts, Instagram Reels) that would interest someone in reading the paper to learn more. Videos summaries should be no longer than 3 minutes and should cover one or two core concepts from a paper, but will not be able to cover all details. Videos may also include brief descriptions of methods or results if useful/relevant, but the focus should be on key new terms, ideas, applications, etc. An excellent example from last semester was made by Verania Salcido: https://drive.google.com/file/d/1pSG5UJqx7uG_cfotibJ1846_kM98h8vU/view?usp=drive_link.   
