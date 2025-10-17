@@ -24,7 +24,7 @@ Office Hours: Monday 12-1PM Outside Center Hall 105
 TA  
 Uliyaah Dionisio  
 udionisio@ucsd.edu         
-Office Hours: Friday 1-2PM CSE B250A
+Office Hours: Thurs 12-1PM CSE B240A
 
 ## Communication
 
