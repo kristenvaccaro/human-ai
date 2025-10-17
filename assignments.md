@@ -54,13 +54,13 @@ You will explore data on bus arrival time predictions, and then design a bus app
 #### Homework #4
 No assignment due
 
-<!-- #### Homework #5
+#### Homework #5
 Due Week 5 Friday 11:59PM   
 
 You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.    
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5) 
 
-#### Homework #6
+<!-- #### Homework #6
 Due Week 6 Friday 11:59PM   
 
 You will use AI generated content to cheat (and help others cheat) on a practice final exam.   
