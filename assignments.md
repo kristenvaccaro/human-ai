@@ -28,14 +28,14 @@ You will complete eight weekly programming and design assignments over the cours
 
 Programming and design assignments will be due at 5PM Friday, every week. No programming and design assignments in weeks 4 or 10.  
 
-#### Homework #1
+### Homework #1
 Due Week 1 Friday 11:59PM  
 
 You will explore and analyze two datasets related to intern hiring. You will design a visualization to help others understand potential bias in the data.     
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW1)
 
-#### Homework #2
+### Homework #2
 Due Week 2 Friday 11:59PM
 
 You will evaluate and improve explanations Instagram provides for its Explore tab recommendations.   
@@ -43,7 +43,7 @@ You will evaluate and improve explanations Instagram provides for its Explore ta
 [Materials](https://github.com/kristenvaccaro/CSE190-HW2)
 
 
-#### Homework #3
+### Homework #3
 Due Week 3 Friday 11:59PM
 
 You will explore data on bus arrival time predictions, and then design a bus app that can manage users' expectations about bus arrival time predictions.    
@@ -51,19 +51,21 @@ You will explore data on bus arrival time predictions, and then design a bus app
 [Materials](https://github.com/kristenvaccaro/CSE190-HW3)
 
 
-#### Homework #4
+### Homework #4
 No assignment due
 
-#### Homework #5
+### Homework #5
 Due Week 5 Friday 11:59PM   
 
-You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model.    
+You will explore a model to detect hate speech on social media, and then design for users to achieve recourse and contestability for such a model. 
+
 [Materials](https://github.com/kristenvaccaro/CSE190-HW5) 
 
-#### Homework #6
+### Homework #6
 Due Week 6 Friday 11:59PM   
 
 You will explore how AI can assist with **creative work** by designing a small prototype tool that supports creators in a chosen domain.
+
 [Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
 
 
