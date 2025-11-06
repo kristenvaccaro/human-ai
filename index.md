@@ -29,12 +29,12 @@ udionisio@ucsd.edu
 
 Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!
 
-#### Questions that are a good fit for Discord:
+<!-- #### Questions that are a good fit for Discord:
 - Can someone help me understand this section of the reading?
 - What would be some examples of \[topic from the readings\]?
 - I'm stuck on the homework at \[xyz\]. Can someone suggest some ideas of what might be going wrong?
 - The instructions for the assignment are unclear. Are we supposed to do \[x\] or \[y\]?
-- I found a meme or news article related to class...
+- I found a meme or news article related to class... -->
 
 #### Questions that are a good fit for office hours:
 - Here’s where I’m stuck on the homework... (can also post to Piazza)
@@ -63,7 +63,7 @@ Programming and design assignments are due Friday 11:59 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments over the course of the quarter. You do not need to contact us in advance to use those late days. Once you have used your 5 days for the quarter, you receive a 10% penalty for each day an assignment is late.
 
-Lowest Grade Dropped Policy: The lowest grade of your participation, quizzes, and programming/design assignments will be dropped. 
+Lowest Grade Dropped Policy: The lowest grade of your participation and programming/design assignments will be dropped. 
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.
