@@ -68,28 +68,16 @@ You will explore how AI can assist with **creative work** by designing a small p
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW6)  
 
+### Homework #7
+Due Week 7 Friday 11;59PM   
 
-<!--
-You will design interactions to support recourse and contestability for hate speech detection on social media.     
-[Materials](https://github.com/kristenvaccaro/CSE190-HW4)  
+You will explore how interface design influences how users craft prompts for AI text generation tools.  
 
-#### Homework #5
-Due Week 5 Friday 5PM   
+[Materials](https://github.com/kristenvaccaro/CSE190-HW7)
 
-You will design interactions around voice and image AI-generated content.    
-Will be released Friday October 21.  
 
-[Materials](https://github.com/kristenvaccaro/CSE190-HW5-2022) 
 
-#### Homework #6
-Due Week 6 Friday 5PM   
-
-You will design interactions around text AI-generated text.    
-Will be released Friday October 28.  
-
-[Materials](https://github.com/kristenvaccaro/CSE190-HW6)  -->
-
-<!-- #### No Homework Week 7
+<!-- 
 
 #### Homework #8
 Due Week 8 Friday 5PM   
