@@ -100,7 +100,11 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
 
 
-## Week 10: Student Choice - TBD <!--Future of Work      -->
+## Week 10: Student Choice - Environmental Impacts of AI <!--Future of Work      -->   
+1: Wells ["As AI becomes part of everyday life, it brings a hidden climate cost"](https://apnews.com/article/ai-data-center-climate-impact-environment-c6218681ffdbad5bf427b47347fddcb9) AP News 2025     
+2: Chen [A.I. Is on the Rise, and So Is the Environmental Impact of the Data Centers That Drive It](https://www.smithsonianmag.com/science-nature/with-ai-on-the-rise-what-will-be-the-environmental-impacts-of-data-centers-180987379/) Smithsonian Magazine 2025     
+3: Xiao et al. [Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA](https://www.nature.com/articles/s41893-025-01681-y) Nature Sustainability 2025   
+4: Ellsworth et al. [Measuring the environmental impact of delivering AI at Google Scale](https://arxiv.org/pdf/2508.15734) Arxiv 2025      
 <!-- 1: Rotman ["People are worried that AI will take everyone’s jobs. We’ve been here before."](https://www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/) MIT Technology Review 2024        
 2: Frey & Osborne ["Generative AI and the Future of Work: A Reappraisal"](https://heinonline.org/HOL/P?h=hein.journals/brownjwa30&i=161) Brown Journal of World Affairs 2023    
 3: Ben Kirman et al. ["CHI and the Future Robot Enslavement of Humankind; A Retrospective"](https://dl.acm.org/doi/abs/10.1145/2468356.2468740) CHI Extended Abstracts 2013    
