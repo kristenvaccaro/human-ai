@@ -87,8 +87,7 @@ _Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5
 3: Capel & Brereton ["Don’t ask if artificial intelligence is good or fair, ask how it shifts power"](https://www.nature.com/articles/d41586-020-02003-2) Nature 2020        
 4: Widder et al. [It’s about power: What ethical concerns do software engineers have, and what do they (feel they can) do about them?](https://dl.acm.org/doi/abs/10.1145/3593013.3594012) FAccT 2023 -->
 <!--4: Estrada [Human supremacy as posthuman risk](https://digitalcommons.odu.edu/sociotechnicalcritique/vol1/iss1/5/) The Journal of Sociotechnical Critique 2020    -->
-
-_Slides: [Overview Slides](https://drive.google.com/drive/folders/1ZITVvr1xZC3Y5t2y9AKT7SBIuqELwMVu?usp=sharing) [Student Slides](https://drive.google.com/drive/folders/1dCDxycqfbXKI5tYDmxAY2ZvtPCMKd1Zm?usp=sharing)_    
+    
 
 ## Week 9: Privacy/Security
 1: Weinshel, Wei, Mondal, Choi, Shan, Dolin, Mazurek, & Ur ["Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing"](https://dl.acm.org/doi/abs/10.1145/3319535.3363200) CCS 2019   
