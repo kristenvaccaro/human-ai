@@ -77,22 +77,22 @@ You will explore how interface design influences how users craft prompts for AI 
 
 
 
-<!-- 
 
-#### Homework #8
-Due Week 8 Friday 5PM   
+
+### Homework #8
+Due Week 8 Friday 11:59PM   
 
 You will design systems to address an ethics/social justice issue of your choice.     
 
 [Materials](https://github.com/kristenvaccaro/CSE190-HW8)
 
-
+<!-- 
 #### Homework #9
 Due Week 10 Friday 5PM   
 
 You will consider privacy-utility tradeoffs in "anonymized" datasets as well as the design of ed tech software like Canvas.    
 
-[Materials](https://github.com/kristenvaccaro/CSE190-HW9)  -->
+[Materials](https://github.com/kristenvaccaro/CSE190-HW9)   -->
 
 
 
